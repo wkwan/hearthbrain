@@ -1,0 +1,1105 @@
+2x Innervate
+2x Enchanted Raven Kara
+2x Living Roots TGT
+2x Darnassus Aspirant TGT
+2x Druid of the Saber TGT
+2x Mark of Y'Shaarj TOG
+2x Mounted Raptor LoE
+2x Savage Roar
+2x Savage Combatant TGT
+2x Swipe
+2x Druid of the Claw
+1x Menagerie Warden Kara
+2x Argent Horserider TGT
+2x Piloted Shredder GvG
+2x Fel Reaver GvG
+1x Dr. Boom GvG
+
+2x Innervate
+2x Living Roots TGT
+2x Darnassus Aspirant TGT
+2x Druid of the Saber TGT
+2x Mounted Raptor LoE
+2x Savage Roar
+2x Keeper of the Grove
+2x Swipe
+2x Druid of the Claw
+2x Worgen Infiltrator
+2x Flame Juggler TGT
+2x Shade of Naxxramas Naxx
+2x Piloted Shredder GvG
+2x Fel Reaver GvG
+1x Leeroy Jenkins
+1x Dr. Boom GvG
+
+2x Innervate
+1x Living Roots TGT
+1x Darnassus Aspirant TGT
+2x Wild Growth
+2x Wrath
+2x Savage Roar
+2x Mire Keeper TOG
+2x Swipe
+2x Druid of the Claw
+2x Ancient of Lore
+2x Ancient of War
+2x Shade of Naxxramas Naxx
+2x Piloted Shredder GvG
+1x Spellbreaker
+2x Azure Drake
+1x Big Game Hunter
+1x Leeroy Jenkins
+1x Dr. Boom GvG
+
+2x Innervate
+1x Living Roots TGT
+2x Darnassus Aspirant TGT
+2x Wild Growth
+2x Wrath
+2x Druid of the Flame BrM
+2x Mire Keeper TOG
+2x Swipe
+2x Druid of the Claw
+1x Ancient of Lore
+2x Ancient of War
+1x Cenarius
+2x Piloted Shredder GvG
+1x Spellbreaker
+2x Azure Drake
+1x Big Game Hunter
+1x Emperor Thaurissan BrM
+1x Sylvanas Windrunner
+1x Kel'Thuzad Naxx
+
+2x Innervate
+2x Living Roots TGT
+2x Wild Growth
+2x Wrath
+2x Savage Roar
+2x Keeper of the Grove
+2x Swipe
+2x Druid of the Claw
+2x Force of Nature
+2x Ancient of Lore
+2x Shade of Naxxramas Naxx
+2x Piloted Shredder GvG
+1x Azure Drake
+1x Big Game Hunter
+1x Harrison Jones
+1x Loatheb Naxx
+1x Emperor Thaurissan BrM
+1x Dr. Boom GvG
+
+2x Northshire Cleric
+2x Power Word: Shield
+2x Museum Curator LoE
+2x Shadow Word: Pain
+2x Shrinkmeister GvG
+1x Shadow Word: Death
+2x Velen's Chosen GvG
+2x Holy Nova
+2x Cabal Shadow Priest
+2x Entomb LoE
+2x Lightbomb GvG
+2x Zombie Chow Naxx
+2x Deathlord Naxx
+1x Elise Starseeker LoE
+1x Piloted Shredder GvG
+1x Harrison Jones
+1x Sludge Belcher Naxx
+1x Justicar Trueheart TGT
+
+2x Northshire Cleric
+2x Power Word: Shield
+2x Twilight Whelp BrM
+2x Museum Curator LoE
+1x Shadow Word: Pain
+2x Wyrmrest Agent TGT
+2x Dark Cultist Naxx
+1x Shadow Word: Death
+2x Velen's Chosen GvG
+2x Holy Nova
+2x Cabal Shadow Priest
+1x Entomb LoE
+1x Lightbomb GvG
+2x Twilight Guardian TGT
+2x Azure Drake
+2x Blackwing Corruptor BrM
+1x Sylvanas Windrunner
+1x Ysera
+
+2x Circle of Healing
+2x Light of the Naaru GvG
+2x Northshire Cleric
+2x Power Word: Shield
+2x Museum Curator LoE
+1x Shrinkmeister GvG
+1x Shadow Word: Death
+2x Auchenai Soulpriest
+1x Holy Nova
+2x Cabal Shadow Priest
+2x Entomb LoE
+2x Lightbomb GvG
+2x Wild Pyromancer
+2x Deathlord Naxx
+2x Injured Blademaster
+2x Sludge Belcher Naxx
+1x Justicar Trueheart TGT
+
+2x Circle of Healing
+2x Flash Heal TGT
+2x Northshire Cleric
+2x Power Word: Shield
+2x Museum Curator LoE
+1x Shadow Word: Death
+1x Velen's Chosen GvG
+2x Auchenai Soulpriest
+2x Shifting Shade TOG
+2x Excavated Evil LoE
+1x Cabal Shadow Priest
+2x Entomb LoE
+1x Lightbomb GvG
+2x Zombie Chow Naxx
+2x Deathlord Naxx
+2x Sludge Belcher Naxx
+1x Sylvanas Windrunner
+1x N'Zoth, the Corruptor TOG
+
+2x Northshire Cleric
+2x Power Word: Shield
+2x Twilight Whelp BrM
+2x Museum Curator LoE
+2x Wyrmrest Agent TGT
+2x Dark Cultist Naxx
+1x Shadow Word: Death
+2x Velen's Chosen GvG
+2x Holy Nova
+1x Vol'jin GvG
+2x Cabal Shadow Priest
+1x Entomb LoE
+2x Twilight Guardian TGT
+2x Azure Drake
+2x Blackwing Corruptor BrM
+1x Harrison Jones
+1x Sylvanas Windrunner
+1x Ysera
+
+2x Shield Slam
+2x Armorsmith
+2x Execute
+2x Fiery War Axe
+1x Slam
+2x Bash TGT
+2x Ravaging Ghoul TOG
+1x Shield Block
+2x Death's Bite Naxx
+1x Brawl
+1x Shieldmaiden GvG
+1x Grommash Hellscream
+2x Acolyte of Pain
+2x Piloted Shredder GvG
+1x Harrison Jones
+2x Sludge Belcher Naxx
+1x Justicar Trueheart TGT
+1x Sylvanas Windrunner
+1x Dr. Boom GvG
+1x N'Zoth, the Corruptor TOG
+
+2x Inner Rage
+2x Whirlwind
+2x Armorsmith
+2x Battle Rage
+2x Execute
+2x Fiery War Axe
+2x Slam
+2x Frothing Berserker
+2x Death's Bite Naxx
+1x Grommash Hellscream
+1x Sir Finley Mrrgglton LoE
+2x Unstable Ghoul Naxx
+2x Acolyte of Pain
+1x Dread Corsair
+2x Piloted Shredder GvG
+2x Grim Patron BrM
+1x Dr. Boom GvG
+
+2x Shield Slam
+2x Armorsmith
+2x Execute
+2x Fiery War Axe
+2x Revenge BrM
+2x Slam
+2x Bash TGT
+1x Shield Block
+2x Death's Bite Naxx
+1x Brawl
+2x Shieldmaiden GvG
+1x Grommash Hellscream
+2x Acolyte of Pain
+1x Big Game Hunter
+2x Sludge Belcher Naxx
+1x Justicar Trueheart TGT
+1x Sylvanas Windrunner
+1x Dr. Boom GvG
+1x Alexstrasza
+
+2x Shield Slam
+2x Execute
+2x Fiery War Axe
+2x Revenge BrM
+1x Slam
+2x Bash TGT
+2x Shield Block
+2x Death's Bite Naxx
+2x Brawl
+2x Shieldmaiden GvG
+1x Gorehowl
+1x Grommash Hellscream
+1x Doomsayer
+2x Deathlord Naxx
+1x Elise Starseeker LoE
+1x Big Game Hunter
+1x Harrison Jones
+1x Sludge Belcher Naxx
+1x Justicar Trueheart TGT
+1x Sylvanas Windrunner
+
+1x Bear Trap TGT
+2x Cat Trick Kara
+2x Explosive Trap
+1x Freezing Trap
+2x Quick Shot BrM
+1x Snake Trap
+2x Snipe
+2x Animal Companion
+2x Cloaked Huntress Kara
+2x Eaglehorn Bow
+2x Kill Command
+1x Unleash the Hounds
+2x Savannah Highmane
+2x Secretkeeper
+2x Mad Scientist Naxx
+1x Barnes Kara
+2x Piloted Shredder GvG
+1x Sludge Belcher Naxx
+
+2x Fiery Bat TOG
+2x Cat Trick Kara
+2x Explosive Trap
+2x Freezing Trap
+2x Quick Shot BrM
+1x Snake Trap
+2x Animal Companion
+2x Cloaked Huntress Kara
+2x Eaglehorn Bow
+2x Kill Command
+2x Unleash the Hounds
+2x Argent Squire
+2x Secretkeeper
+2x Mad Scientist Naxx
+2x Argent Horserider TGT
+1x Leeroy Jenkins
+
+1x Hunter's Mark
+2x Webspinner Naxx
+1x Explosive Trap
+2x Freezing Trap
+1x Quick Shot BrM
+2x Animal Companion
+2x Eaglehorn Bow
+2x Kill Command
+2x Unleash the Hounds
+2x Houndmaster
+1x Princess Huhuran TOG
+2x Savannah Highmane
+1x Call of the Wild TOG
+2x Haunted Creeper Naxx
+1x Knife Juggler
+2x Mad Scientist Naxx
+2x Piloted Shredder GvG
+1x Dr. Boom GvG
+1x N'Zoth, the Corruptor TOG
+
+2x Fiery Bat TOG
+1x Freezing Trap
+2x Glaivezooka GvG
+1x Quick Shot BrM
+1x Snake Trap
+2x Animal Companion
+1x Eaglehorn Bow
+2x Kill Command
+2x Unleash the Hounds
+2x Savannah Highmane
+2x Abusive Sergeant
+2x Haunted Creeper Naxx
+2x Knife Juggler
+2x Mad Scientist Naxx
+2x Argent Horserider TGT
+1x Ironbeak Owl
+2x Piloted Shredder GvG
+1x Loatheb Naxx
+
+2x Fiery Bat TOG
+1x Explosive Trap
+2x Glaivezooka GvG
+2x Quick Shot BrM
+1x Snake Trap
+2x Animal Companion
+1x Eaglehorn Bow
+2x Kill Command
+2x Unleash the Hounds
+2x Abusive Sergeant
+2x Worgen Infiltrator
+2x Haunted Creeper Naxx
+2x Knife Juggler
+2x Mad Scientist Naxx
+2x Argent Horserider TGT
+1x Ironbeak Owl
+2x Wolfrider
+
+1x Hunter's Mark
+2x Webspinner Naxx
+1x Explosive Trap
+2x Freezing Trap
+1x Quick Shot BrM
+2x Animal Companion
+2x Eaglehorn Bow
+2x Kill Command
+2x Unleash the Hounds
+2x Houndmaster
+1x Princess Huhuran TOG
+2x Savannah Highmane
+1x Call of the Wild TOG
+2x Haunted Creeper Naxx
+2x Knife Juggler
+2x Mad Scientist Naxx
+2x Piloted Shredder GvG
+1x Dr. Boom GvG
+
+2x Fiery Bat TOG
+2x Explosive Trap
+2x Glaivezooka GvG
+2x Quick Shot BrM
+2x Animal Companion
+1x Eaglehorn Bow
+2x Kill Command
+2x Unleash the Hounds
+2x Abusive Sergeant
+2x Argent Squire
+2x Haunted Creeper Naxx
+2x Knife Juggler
+1x Lance Carrier TGT
+2x Mad Scientist Naxx
+2x Argent Horserider TGT
+1x Ironbeak Owl
+1x Wolfrider
+
+1x Hunter's Mark
+2x Webspinner Naxx
+2x Freezing Trap
+1x Quick Shot BrM
+2x Animal Companion
+1x Dreadscale TGT
+2x Eaglehorn Bow
+2x Kill Command
+2x Unleash the Hounds
+1x Houndmaster
+2x Savannah Highmane
+2x Haunted Creeper Naxx
+2x Knife Juggler
+2x Mad Scientist Naxx
+1x Argent Horserider TGT
+1x Ironbeak Owl
+2x Piloted Shredder GvG
+1x Loatheb Naxx
+1x Dr. Boom GvG
+
+2x Backstab
+2x Preparation
+2x Deadly Poison
+2x Eviscerate
+2x Sap
+2x Shiv
+2x Fan of Knives
+2x SI:7 Agent
+1x Blade Flurry
+2x Tomb Pillager LoE
+1x Xaril, Poisoned Mind TOG
+1x Bloodmage Thalnos
+1x Violet Teacher
+2x Antique Healbot GvG
+2x Azure Drake
+1x Emperor Thaurissan BrM
+2x Gadgetzan Auctioneer
+1x Malygos
+
+2x Backstab
+2x Preparation
+2x Journey Below TOG
+2x Eviscerate
+2x Sap
+2x Undercity Huckster TOG
+1x Edwin VanCleef
+2x Fan of Knives
+2x SI:7 Agent
+2x Shadow Strike TOG
+2x Tomb Pillager LoE
+1x Xaril, Poisoned Mind TOG
+1x Earthen Ring Farseer
+2x Azure Drake
+2x Sludge Belcher Naxx
+2x Gadgetzan Auctioneer
+1x N'Zoth, the Corruptor TOG
+
+2x Backstab
+2x Preparation
+2x Deadly Poison
+2x Eviscerate
+2x Sap
+1x Edwin VanCleef
+2x Fan of Knives
+2x SI:7 Agent
+1x Blade Flurry
+2x Tinker's Sharpsword Oil GvG
+2x Tomb Pillager LoE
+2x Sprint
+1x Bloodmage Thalnos
+1x Earthen Ring Farseer
+2x Violet Teacher
+2x Azure Drake
+1x Loatheb Naxx
+1x Sludge Belcher Naxx
+
+2x Backstab
+2x Cold Blood
+2x Eviscerate
+2x Fan of Knives
+2x SI:7 Agent
+2x Unearthed Raptor LoE
+1x Bloodmage Thalnos
+2x Haunted Creeper Naxx
+2x Loot Hoarder
+2x Nerubian Egg Naxx
+2x Defender of Argus
+2x Piloted Shredder GvG
+2x Azure Drake
+1x Big Game Hunter
+1x Loatheb Naxx
+1x Sludge Belcher Naxx
+1x Sylvanas Windrunner
+1x Dr. Boom GvG
+
+2x Ice Lance
+2x Frostbolt
+2x Arcane Intellect
+1x Forgotten Torch LoE
+2x Frost Nova
+2x Ice Barrier
+2x Ice Block
+1x Cone of Cold
+1x Fireball
+1x Blizzard
+1x Archmage Antonidas
+1x Flamestrike
+1x Pyroblast
+1x Bloodmage Thalnos
+2x Doomsayer
+1x Loot Hoarder
+2x Mad Scientist Naxx
+1x Novice Engineer
+1x Acolyte of Pain
+1x Emperor Thaurissan BrM
+1x Reno Jackson LoE
+1x Alexstrasza
+
+2x Ice Lance
+2x Frostbolt
+2x Arcane Intellect
+2x Forgotten Torch LoE
+2x Frost Nova
+2x Ice Barrier
+2x Ice Block
+2x Fireball
+2x Blizzard
+1x Pyroblast
+1x Bloodmage Thalnos
+2x Doomsayer
+2x Mad Scientist Naxx
+2x Novice Engineer
+2x Acolyte of Pain
+1x Emperor Thaurissan BrM
+1x Alexstrasza
+
+2x Mana Wyrm
+2x Frostbolt
+2x Snowchugger GvG
+2x Unstable Portal GvG
+2x Fireball
+2x Goblin Blastmage GvG
+1x Archmage Antonidas
+2x Clockwork Gnome GvG
+2x Cogmaster GvG
+2x Annoy-o-Tron GvG
+2x Mechwarper GvG
+2x Spider Tank GvG
+1x Tinkertown Technician GvG
+2x Gorillabot A-3 LoE
+2x Piloted Shredder GvG
+1x Loatheb Naxx
+1x Dr. Boom GvG
+
+2x Ice Lance
+2x Frostbolt
+2x Arcane Intellect
+1x Forgotten Torch LoE
+2x Frost Nova
+2x Ice Barrier
+2x Ice Block
+2x Fireball
+2x Blizzard
+1x Archmage Antonidas
+1x Flamestrike
+1x Pyroblast
+1x Bloodmage Thalnos
+2x Doomsayer
+2x Mad Scientist Naxx
+2x Acolyte of Pain
+1x Antique Healbot GvG
+1x Emperor Thaurissan BrM
+1x Alexstrasza
+
+1x Arcane Blast TGT
+2x Arcane Missiles
+2x Mana Wyrm
+2x Flamecannon GvG
+2x Frostbolt
+2x Sorcerer's Apprentice
+2x Unstable Portal GvG
+1x Arcane Intellect
+1x Counterspell
+2x Flamewaker BrM
+1x Mirror Entity
+2x Fireball
+2x Faceless Summoner TOG
+1x Archmage Antonidas
+2x Mad Scientist Naxx
+2x Piloted Shredder GvG
+2x Azure Drake
+1x Dr. Boom GvG
+
+1x Arcane Blast TGT
+2x Arcane Missiles
+2x Mana Wyrm
+2x Flamecannon GvG
+2x Frostbolt
+2x Sorcerer's Apprentice
+2x Unstable Portal GvG
+1x Duplicate Naxx
+2x Flamewaker BrM
+2x Mirror Entity
+2x Fireball
+1x Water Elemental
+1x Ethereal Conjurer LoE
+1x Archmage Antonidas
+2x Mad Scientist Naxx
+2x Piloted Shredder GvG
+2x Azure Drake
+1x Dr. Boom GvG
+
+2x Spirit Claws Kara
+1x Tunnel Trogg LoE
+2x Crackle GvG
+2x Flametongue Totem
+2x Maelstrom Portal Kara
+2x Totem Golem TGT
+2x Hex
+1x Lightning Storm
+1x Mana Tide Totem
+2x Thunder Bluff Valiant TGT
+2x Thing from Below TOG
+2x Argent Squire
+1x Bloodmage Thalnos
+2x Haunted Creeper Naxx
+2x Piloted Shredder GvG
+2x Azure Drake
+1x Loatheb Naxx
+1x Dr. Boom GvG
+
+2x Lightning Bolt
+2x Spirit Claws Kara
+2x Tunnel Trogg LoE
+2x Crackle GvG
+2x Flametongue Totem
+2x Lava Shock BrM
+2x Maelstrom Portal Kara
+2x Totem Golem TGT
+2x Feral Spirit
+2x Lava Burst
+2x Flamewreathed Faceless TOG
+2x Argent Squire
+1x Sir Finley Mrrgglton LoE
+1x Bloodmage Thalnos
+2x Argent Horserider TGT
+2x Azure Drake
+
+1x Earth Shock
+1x Lightning Bolt
+2x Tunnel Trogg LoE
+2x Ancestral Knowledge TGT
+2x Crackle GvG
+2x Lava Shock BrM
+2x Rockbiter Weapon
+2x Totem Golem TGT
+2x Feral Spirit
+2x Lava Burst
+2x Flamewreathed Faceless TOG
+2x Doomhammer
+2x Abusive Sergeant
+1x Sir Finley Mrrgglton LoE
+1x Worgen Infiltrator
+2x Flame Juggler TGT
+2x Argent Horserider TGT
+
+1x Earth Shock
+2x Crackle GvG
+2x Rockbiter Weapon
+2x Totem Golem TGT
+2x Whirling Zap-o-matic GvG
+1x Lava Burst
+2x Powermace GvG
+1x Tuskarr Totemic TGT
+1x Doomhammer
+2x Fire Elemental
+2x Cogmaster GvG
+2x Annoy-o-Tron GvG
+2x Mechwarper GvG
+2x Spider Tank GvG
+2x Piloted Shredder GvG
+2x Fel Reaver GvG
+1x Loatheb Naxx
+1x Dr. Boom GvG
+
+2x Forbidden Healing TOG
+2x Equality
+2x Aldor Peacekeeper
+2x Consecration
+2x Keeper of Uldaman LoE
+2x Truesilver Champion
+2x Solemn Vigil BrM
+1x Ivory Knight Kara
+1x Ragnaros, Lightlord TOG
+1x Tirion Fordring
+1x Acidic Swamp Ooze
+2x Doomsayer
+2x Wild Pyromancer
+1x Acolyte of Pain
+1x Barnes Kara
+1x Piloted Shredder GvG
+2x Sludge Belcher Naxx
+1x Cairne Bloodhoof
+1x Sylvanas Windrunner
+1x N'Zoth, the Corruptor TOG
+
+2x Forbidden Healing TOG
+1x Humility
+2x Equality
+2x Aldor Peacekeeper
+2x Consecration
+2x Truesilver Champion
+2x Solemn Vigil BrM
+2x Ivory Knight Kara
+1x Ragnaros, Lightlord TOG
+1x Tirion Fordring
+2x Anyfin Can Happen LoE
+2x Bluegill Warrior
+2x Doomsayer
+2x Wild Pyromancer
+2x Murloc Warleader
+1x Old Murk-Eye
+2x Sludge Belcher Naxx
+
+2x Avenge Naxx
+1x Competitive Spirit TGT
+2x Noble Sacrifice
+1x Redemption
+2x Shielded Minibot GvG
+1x Coghammer GvG
+2x Muster for Battle GvG
+1x Blessing of Kings
+2x Keeper of Uldaman LoE
+1x Truesilver Champion
+2x Mysterious Challenger TGT
+1x Tirion Fordring
+2x Secretkeeper
+1x Haunted Creeper Naxx
+2x Knife Juggler
+2x Piloted Shredder GvG
+1x Loatheb Naxx
+2x Sludge Belcher Naxx
+1x Dr. Boom GvG
+1x N'Zoth, the Corruptor TOG
+
+1x Equality
+2x Shielded Minibot GvG
+2x Aldor Peacekeeper
+1x Coghammer GvG
+2x Muster for Battle GvG
+2x Consecration
+2x Keeper of Uldaman LoE
+1x Truesilver Champion
+2x Quartermaster GvG
+1x Lay on Hands
+1x Tirion Fordring
+2x Zombie Chow Naxx
+2x Knife Juggler
+1x Defender of Argus
+2x Piloted Shredder GvG
+1x Antique Healbot GvG
+2x Sludge Belcher Naxx
+1x Justicar Trueheart TGT
+1x Sylvanas Windrunner
+1x Dr. Boom GvG
+
+2x Equality
+2x Aldor Peacekeeper
+2x Consecration
+2x Truesilver Champion
+2x Solemn Vigil BrM
+2x Lay on Hands
+2x Anyfin Can Happen LoE
+2x Bluegill Warrior
+2x Doomsayer
+2x Loot Hoarder
+2x Wild Pyromancer
+2x Acolyte of Pain
+2x Murloc Warleader
+1x Old Murk-Eye
+2x Antique Healbot GvG
+1x Sludge Belcher Naxx
+
+2x Avenge Naxx
+1x Competitive Spirit TGT
+2x Noble Sacrifice
+1x Redemption
+2x Shielded Minibot GvG
+1x Coghammer GvG
+2x Muster for Battle GvG
+2x Blessing of Kings
+2x Keeper of Uldaman LoE
+1x Truesilver Champion
+2x Mysterious Challenger TGT
+1x Tirion Fordring
+2x Secretkeeper
+1x Haunted Creeper Naxx
+2x Knife Juggler
+2x Piloted Shredder GvG
+1x Loatheb Naxx
+2x Sludge Belcher Naxx
+1x Dr. Boom GvG
+
+2x Avenge Naxx
+1x Competitive Spirit TGT
+2x Noble Sacrifice
+1x Redemption
+2x Shielded Minibot GvG
+2x Coghammer GvG
+2x Muster for Battle GvG
+2x Blessing of Kings
+2x Keeper of Uldaman LoE
+2x Mysterious Challenger TGT
+1x Tirion Fordring
+2x Abusive Sergeant
+2x Argent Squire
+2x Haunted Creeper Naxx
+2x Knife Juggler
+1x Nerubian Egg Naxx
+1x Loatheb Naxx
+1x Dr. Boom GvG
+
+2x Blessing of Might
+2x Selfless Hero TOG
+2x Shielded Minibot GvG
+2x Divine Favor
+2x Muster for Battle GvG
+2x Rallying Blade TOG
+2x Steward of Darkshire TOG
+1x Blessing of Kings
+2x Keeper of Uldaman LoE
+2x Abusive Sergeant
+2x Argent Squire
+1x Sir Finley Mrrgglton LoE
+2x Haunted Creeper Naxx
+2x Knife Juggler
+1x Ironbeak Owl
+2x Wolfrider
+1x Leeroy Jenkins
+
+2x Avenge Naxx
+1x Competitive Spirit TGT
+2x Noble Sacrifice
+1x Redemption
+1x Repentance
+2x Selfless Hero TOG
+2x Shielded Minibot GvG
+2x Divine Favor
+2x Muster for Battle GvG
+1x Blessing of Kings
+1x Consecration
+2x Keeper of Uldaman LoE
+2x Truesilver Champion
+2x Mysterious Challenger TGT
+2x Secretkeeper
+2x Knife Juggler
+1x Ironbeak Owl
+2x Piloted Shredder GvG
+
+1x Mortal Coil
+1x Dark Peddler LoE
+1x Darkbomb GvG
+1x Demonwrath BrM
+1x Imp Gang Boss BrM
+1x Hellfire
+1x Imp-losion GvG
+1x Shadowflame
+1x Voidcaller Naxx
+1x Siphon Soul
+1x Lord Jaraxxus
+1x Mal'Ganis GvG
+1x Zombie Chow Naxx
+1x Sunfury Protector
+1x Brann Bronzebeard LoE
+1x Earthen Ring Farseer
+1x Mind Control Tech
+1x Defender of Argus
+1x Eater of Secrets TOG
+1x Piloted Shredder GvG
+1x Twilight Drake
+1x Antique Healbot GvG
+1x Loatheb Naxx
+1x Sludge Belcher Naxx
+1x Cairne Bloodhoof
+1x Emperor Thaurissan BrM
+1x Reno Jackson LoE
+1x Sylvanas Windrunner
+1x Dr. Boom GvG
+1x N'Zoth, the Corruptor TOG
+
+2x Mortal Coil
+1x Soulfire
+2x Dark Peddler LoE
+2x Darkbomb GvG
+2x Imp Gang Boss BrM
+1x Hellfire
+1x Shadowflame
+1x Siphon Soul
+2x Zombie Chow Naxx
+1x Brann Bronzebeard LoE
+1x Defender of Argus
+1x Eater of Secrets TOG
+1x Twilight Drake
+2x Twilight Guardian TGT
+2x Antique Healbot GvG
+2x Azure Drake
+2x Blackwing Corruptor BrM
+2x Book Wyrm Kara
+1x Emperor Thaurissan BrM
+1x Malygos
+
+1x Forbidden Ritual TOG
+2x Possessed Villager TOG
+2x Power Overwhelming
+2x Voidwalker
+2x Dark Peddler LoE
+2x Darkshire Councilman TOG
+2x Imp Gang Boss BrM
+2x Imp-losion GvG
+2x Abusive Sergeant
+1x Dire Wolf Alpha
+2x Haunted Creeper Naxx
+2x Knife Juggler
+1x Nerubian Egg Naxx
+2x Defender of Argus
+1x Gormok the Impaler TGT
+1x Leeroy Jenkins
+1x Loatheb Naxx
+2x Sea Giant
+
+2x Mortal Coil
+2x Dark Peddler LoE
+2x Darkbomb GvG
+1x Hellfire
+1x Shadowflame
+2x Voidcaller Naxx
+1x Doomguard
+1x Lord Jaraxxus
+1x Mal'Ganis GvG
+2x Ancient Watcher
+2x Sunfury Protector
+1x Ironbeak Owl
+2x Defender of Argus
+2x Twilight Drake
+2x Antique Healbot GvG
+1x Big Game Hunter
+1x Emperor Thaurissan BrM
+1x Sylvanas Windrunner
+1x Dr. Boom GvG
+2x Molten Giant
+
+2x Flame Imp
+2x Power Overwhelming
+2x Voidwalker
+2x Dark Peddler LoE
+2x Imp Gang Boss BrM
+2x Imp-losion GvG
+2x Voidcaller Naxx
+2x Doomguard
+1x Mal'Ganis GvG
+2x Abusive Sergeant
+2x Haunted Creeper Naxx
+2x Knife Juggler
+2x Nerubian Egg Naxx
+1x Ironbeak Owl
+2x Defender of Argus
+1x Sylvanas Windrunner
+1x Dr. Boom GvG
+
+2x Flame Imp
+2x Power Overwhelming
+2x Voidwalker
+2x Dark Peddler LoE
+2x Imp Gang Boss BrM
+2x Imp-losion GvG
+2x Voidcaller Naxx
+2x Doomguard
+1x Mal'Ganis GvG
+2x Abusive Sergeant
+2x Haunted Creeper Naxx
+2x Knife Juggler
+2x Nerubian Egg Naxx
+1x Ironbeak Owl
+2x Defender of Argus
+1x Sylvanas Windrunner
+1x Dr. Boom GvG
+
+2x Mortal Coil
+2x Dark Peddler LoE
+2x Darkbomb GvG
+2x Hellfire
+1x Shadowflame
+1x Siphon Soul
+1x Lord Jaraxxus
+1x Ancient Watcher
+2x Sunfury Protector
+1x Brann Bronzebeard LoE
+1x Ironbeak Owl
+1x Defender of Argus
+2x Twilight Drake
+2x Antique Healbot GvG
+1x Big Game Hunter
+2x Sludge Belcher Naxx
+1x Emperor Thaurissan BrM
+1x Dr. Boom GvG
+2x Mountain Giant
+2x Molten Giant
+
+1x Mortal Coil
+1x Dark Peddler LoE
+1x Darkbomb GvG
+1x Demonwrath BrM
+1x Imp Gang Boss BrM
+1x Hellfire
+1x Imp-losion GvG
+1x Shadowflame
+1x Siphon Soul
+1x Twisting Nether
+1x Lord Jaraxxus
+1x Mal'Ganis GvG
+1x Zombie Chow Naxx
+1x Sunfury Protector
+1x Earthen Ring Farseer
+1x Ironbeak Owl
+1x Mind Control Tech
+1x Piloted Shredder GvG
+1x Twilight Drake
+1x Antique Healbot GvG
+1x Big Game Hunter
+1x Feugen Naxx
+1x Loatheb Naxx
+1x Sludge Belcher Naxx
+1x Stalagg Naxx
+1x Emperor Thaurissan BrM
+1x Reno Jackson LoE
+1x Sylvanas Windrunner
+1x Dr. Boom GvG
+1x Molten Giant
+
+2x Power Overwhelming
+1x Reliquary Seeker LoE
+2x Voidwalker
+2x Dark Peddler LoE
+2x Imp Gang Boss BrM
+2x Imp-losion GvG
+2x Abusive Sergeant
+1x Zombie Chow Naxx
+2x Echoing Ooze Naxx
+2x Haunted Creeper Naxx
+1x Knife Juggler
+2x Nerubian Egg Naxx
+1x Ironbeak Owl
+2x Defender of Argus
+1x Gormok the Impaler TGT
+1x Big Game Hunter
+1x Loatheb Naxx
+1x Dr. Boom GvG
+2x Sea Giant
+
+2x Mortal Coil
+1x Soulfire
+2x Dark Peddler LoE
+2x Darkbomb GvG
+1x Imp Gang Boss BrM
+2x Hellfire
+1x Imp-losion GvG
+1x Abusive Sergeant
+2x Zombie Chow Naxx
+1x Brann Bronzebeard LoE
+1x Ironbeak Owl
+2x Twilight Drake
+2x Twilight Guardian TGT
+2x Antique Healbot GvG
+2x Azure Drake
+2x Big Game Hunter
+2x Blackwing Corruptor BrM
+1x Emperor Thaurissan BrM
+1x Malygos
+
+1x Mortal Coil
+1x Power Overwhelming
+1x Dark Peddler LoE
+1x Darkbomb GvG
+1x Demonwrath BrM
+1x Imp Gang Boss BrM
+1x Hellfire
+1x Imp-losion GvG
+1x Shadowflame
+1x Siphon Soul
+1x Twisting Nether
+1x Abusive Sergeant
+1x Zombie Chow Naxx
+1x Brann Bronzebeard LoE
+1x Earthen Ring Farseer
+1x Ironbeak Owl
+1x Mind Control Tech
+1x Defender of Argus
+1x Piloted Shredder GvG
+1x Twilight Drake
+1x Antique Healbot GvG
+1x Big Game Hunter
+1x Faceless Manipulator
+1x Leeroy Jenkins
+1x Loatheb Naxx
+1x Sludge Belcher Naxx
+1x Emperor Thaurissan BrM
+1x Reno Jackson LoE
+1x Sylvanas Windrunner
+1x Dr. Boom GvG
