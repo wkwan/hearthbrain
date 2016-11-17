@@ -11,7 +11,8 @@ def hello_world():
 
 @app.route('/gen')
 def gen():
-    return generateDeck()
+    print("generate deck")
+    return str(generateDeck())
 
 if __name__ == '__main__':
     app.run()
