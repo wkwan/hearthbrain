@@ -1,3 +1,5 @@
+import os
+
 from flask import Flask
 from var_len import *
 
@@ -15,4 +17,7 @@ def gen():
     return str(generateDeck())
 
 if __name__ == '__main__':
-    app.run()
+    app.debug = True
+    port = int(os.environ.get("PORT", 5000))
+    print("port is", port);
+    app.run(host='0.0.0.0', port=port)
