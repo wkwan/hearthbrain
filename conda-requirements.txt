@@ -1,3 +1,4 @@
 nomkl
 numpy
 scipy
+h5py

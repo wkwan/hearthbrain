@@ -2,3 +2,4 @@ Flask==0.11.1
 Keras==1.1.1
 numpy==1.11.2
 scipy==0.18.1
+h5py==2.6.0
