@@ -1,3 +1,2 @@
-Keras
 numpy
 scipy
