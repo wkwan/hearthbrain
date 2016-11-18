@@ -90,11 +90,11 @@ def generateDeck():
         return model
 
     def generate(model):
-        # test_input_text = ["Mounted Raptor LoE", "Savage Roar", "Living Roots TGT", "Swipe", "Big Game Hunter"]
+        test_input_text = ["Mounted Raptor LoE", "Savage Roar", "Living Roots TGT", "Swipe", "Big Game Hunter"]
         # test_input_text = ["Earthen Ring Farseer", "Argent Squire", "Bloodmage Thalnos"]
         # test_input_text = ["Mounted Raptor LoE", "Mad Scientist Naxx", "Alexstrasza"]
         # test_input_text = ["Ice Barrier", "Frostbolt", "Archmage Antonidas", "Spider Tank GvG", "Loatheb Naxx", "Annoy-o-Tron GvG", "Cogmaster GvG"]
-        test_input_text = ["Northshire Cleric", "Twilight Guardian TGT"]
+        # test_input_text = ["Northshire Cleric", "Twilight Guardian TGT"]
         test_input = list(card_to_int[card] for card in test_input_text)
         generated_deck_len = len(test_input)
         while len(test_input) < 30:
