@@ -7,7 +7,7 @@ app.config(['$interpolateProvider', function($interpolateProvider) {
 
 app.controller('AppCtrl', function ($scope, $http) {
     // var url = 'http://localhost:5000';
-    var url = 'https://pure-ridge-64204.herokuapp.com/';
+    var url = '';
 
     $scope.inputDeck = {};
     $scope.outputDeck = {};
