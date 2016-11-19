@@ -113,8 +113,8 @@ def generateDeck():
     loaded_model_json = json_file.read()
     json_file.close()
     model = model_from_json(loaded_model_json)
-    model.load_weights("weights.final.h5")
-    # model.load_weights("weights.best.hdf5")
+    # model.load_weights("weights.final.h5")
+    model.load_weights("weights.best.hdf5")
 
     # model = train()
     return generate(model)
