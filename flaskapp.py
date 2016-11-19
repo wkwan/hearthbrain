@@ -1,5 +1,8 @@
 import os
 
+from flask import json
+from flask import render_template
+
 os.environ["KERAS_BACKEND"] = "theano"
 
 from flask import Flask
@@ -10,13 +13,13 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello_world():
-    return 'Hello World!'
+    return render_template('index.html');
 
 
 @app.route('/gen')
 def gen():
     print("generate deck")
-    return str(generateDeck())
+    return json.dumps(generateDeck())
 
 if __name__ == '__main__':
     app.debug = True

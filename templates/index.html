@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body ng-app="app" ng-controller="AppCtrl as app">
+
+<h1 class="text-center">Hearthstone Deck Generator</h1>
+
+<div class="container">
+    <div class="row">
+
+        <div class="col-sm-6">
+            <div>
+                <select ng-model="selectedClass" ng-change="changeClass()">
+                    <option ng-repeat="(class, cards) in cardsByClass">{[class]}</option>
+                </select>
+
+                <input type="text" ng-model="searchText"/>
+            </div>
+        </div>
+
+
+    </div>
+
+    <div class="row">
+        <div class="col-sm-3">
+            <select ng-model="selectedCard" ng-options="x for x in cardsByClass[selectedClass] | filter:searchText"
+                    size="10" ng-click="addCard()">
+            </select>
+        </div>
+
+        <div class="col-sm-3">
+            <select ng-model="selectedCard" ng-options="x for x in neutralCards | filter:searchText" size="10"
+                    ng-click="addCard()">
+            </select>
+        </div>
+        <div class="col-sm-6">
+            <p>Input Deck</p>
+
+            <li ng-repeat="(card, count) in inputDeck" ng-click="removeCard(card)">{[card]}: {[count]}</li>
+
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="center-block">
+            <button id="singlebutton" name="singlebutton" class="btn btn-primary center-block"
+                    ng-click="generateDeck()">
+                Generate Counter Deck
+            </button>
+            <li class="text-center" ng-repeat="card in outputDeck">{[card]}</li>
+
+
+        </div>
+
+
+    </div>
+
+
+</div>
+
+
+<script src="../static/bower_components/angular/angular.js"></script>
+<script src="../static/app.js"></script>
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+      integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
+      integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
+        integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
+        crossorigin="anonymous"></script>
+</body>
+</html>
