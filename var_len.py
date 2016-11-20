@@ -65,7 +65,7 @@ def train():
     for deck in decks:
         deck_ints = list(card_to_int[card] for index, card in enumerate(deck))
         print("Deck is", deck_ints)
-        for i in range(10000):
+        for i in range(50):
             input_len = numpy.random.randint(2, MAX_LEN)
             input = numpy.random.choice(deck_ints, input_len)
             dataX.append(input[:len(input) - 1])
@@ -90,7 +90,7 @@ def train():
     checkpoint = ModelCheckpoint(filepath, monitor='val_acc', verbose=1, save_best_only=True, mode='max')
     callbacks_list = [checkpoint]
 
-    model.fit(X, y, nb_epoch=3, batch_size=batch_size, verbose=2, validation_split=0.33, callbacks=callbacks_list)
+    model.fit(X, y, nb_epoch=100, batch_size=batch_size, verbose=2, validation_split=0.33, callbacks=callbacks_list)
 
     model_json = model.to_json()
     with open("model.json", "w") as json_file:
@@ -123,11 +123,11 @@ def generate_deck(seed_cards):
 
 
 if __name__ == "__main__":
-    # test_input_text = ["Savage Roar", "Living Roots", "Swipe"]
+    test_input_text = ["Savage Roar", "Living Roots", "Swipe"]
     # test_input_text = ["Earthen Ring Farseer", "Argent Squire", "Bloodmage Thalnos"]
     # test_input_text = ["Mounted Raptor LoE", "Mad Scientist Naxx", "Alexstrasza"]
     # test_input_text = ["Ice Barrier", "Frostbolt", "Archmage Antonidas", "Spider Tank GvG", "Loatheb Naxx", "Annoy-o-Tron GvG", "Cogmaster GvG"]
     # test_input_text = ["Northshire Cleric", "Twilight Guardian TGT", "Sylvanas Windrunner", "Dr. Boom", "Wild Pyromancer"]
-    test_input_text = ["Cat Trick", "Unleash the Hounds", "Call of the Wild"]
+    # test_input_text = ["Cat Trick", "Unleash the Hounds", "Call of the Wild"]
     print(generate_deck(test_input_text))
     # model = train()
