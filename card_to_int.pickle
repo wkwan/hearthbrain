@@ -1,0 +1,860 @@
+(dp0
+S'Dark Cultist'
+p1
+I1
+sS'Shifting Shade'
+p2
+I2
+sS'Repentance'
+p3
+I89
+sS'Unearthed Raptor'
+p4
+I5
+sS'Wrath'
+p5
+I6
+sS'Ysera'
+p6
+I190
+sS'Tomb Pillager'
+p7
+I7
+sS'Explosive Trap'
+p8
+I8
+sS'Alexstrasza'
+p9
+I9
+sS'Deathlord'
+p10
+I10
+sS"Tinker's Sharpsword Oil"
+p11
+I11
+sS'Shadow Strike'
+p12
+I12
+sS'Fel Reaver'
+p13
+I14
+sS'Call of the Wild'
+p14
+I251
+sS'Wild Growth'
+p15
+I243
+sS'Lightning Storm'
+p16
+I17
+sS'Totem Golem'
+p17
+I207
+sS'Rallying Blade'
+p18
+I18
+sS'Cairne Bloodhoof'
+p19
+I19
+sS'Snowchugger'
+p20
+I20
+sS'Gorehowl'
+p21
+I21
+sS'Spider Tank'
+p22
+I139
+sS'Flamecannon'
+p23
+I24
+sS'Lava Burst'
+p24
+I25
+sS'Harrison Jones'
+p25
+I26
+sS"Velen's Chosen"
+p26
+I258
+sS'Elise Starseeker'
+p27
+I226
+sS'Selfless Hero'
+p28
+I27
+sS'Ice Barrier'
+p29
+I249
+sS'Eater of Secrets'
+p30
+I29
+sS'Secretkeeper'
+p31
+I30
+sS'Barnes'
+p32
+I31
+sS'Azure Drake'
+p33
+I32
+sS'Snipe'
+p34
+I33
+sS'Eaglehorn Bow'
+p35
+I34
+sS'Bash'
+p36
+I35
+sS'Siphon Soul'
+p37
+I36
+sS'Anyfin Can Happen'
+p38
+I37
+sS'Sir Finley Mrrgglton'
+p39
+I38
+sS'Execute'
+p40
+I39
+sS'Goblin Blastmage'
+p41
+I41
+sS'Frostbolt'
+p42
+I42
+sS'Voidcaller'
+p43
+I43
+sS'Lance Carrier'
+p44
+I278
+sS'Ethereal Conjurer'
+p45
+I44
+sS'Shield Slam'
+p46
+I45
+sS'Northshire Cleric'
+p47
+I46
+sS'Ice Lance'
+p48
+I47
+sS'Feral Spirit'
+p49
+I48
+sS'Flash Heal'
+p50
+I49
+sS'Malygos'
+p51
+I50
+sS'Darkbomb'
+p52
+I51
+sS'Excavated Evil'
+p53
+I52
+sS'Faceless Manipulator'
+p54
+I54
+sS"Mark of Y'Shaarj"
+p55
+I281
+sS'Spellbreaker'
+p56
+I55
+sS'Houndmaster'
+p57
+I56
+sS'Druid of the Flame'
+p58
+I57
+sS'Competitive Spirit'
+p59
+I58
+sS'Grommash Hellscream'
+p60
+I236
+sS"N'Zoth, the Corruptor"
+p61
+I59
+sS'Duplicate'
+p62
+I83
+sS'Holy Nova'
+p63
+I250
+sS'Unstable Portal'
+p64
+I87
+sS'Druid of the Saber'
+p65
+I63
+sS'Clockwork Gnome'
+p66
+I23
+sS'Journey Below'
+p67
+I65
+sS'Sap'
+p68
+I66
+sS'Mire Keeper'
+p69
+I67
+sS'Gormok the Impaler'
+p70
+I76
+sS'Bloodmage Thalnos'
+p71
+I71
+sS'Glaivezooka'
+p72
+I198
+sS'Sludge Belcher'
+p73
+I280
+sS'Battle Rage'
+p74
+I73
+sS'Ice Block'
+p75
+I286
+sS'Feugen'
+p76
+I74
+sS'Water Elemental'
+p77
+I75
+sS'Armorsmith'
+p78
+I77
+sS'Auchenai Soulpriest'
+p79
+I78
+sS'Princess Huhuran'
+p80
+I79
+sS'Archmage Antonidas'
+p81
+I81
+sS'Equality'
+p82
+I105
+sS'Shielded Minibot'
+p83
+I3
+sS'Arcane Missiles'
+p84
+I85
+sS'Acidic Swamp Ooze'
+p85
+I204
+sS'Animal Companion'
+p86
+I86
+sS'Book Wyrm'
+p87
+I102
+sS'Circle of Healing'
+p88
+I88
+sS'Ragnaros, Lightlord'
+p89
+I4
+sS'Mounted Raptor'
+p90
+I202
+sS'Kill Command'
+p91
+I92
+sS'Cold Blood'
+p92
+I93
+sS'Divine Favor'
+p93
+I94
+sS'Zombie Chow'
+p94
+I95
+sS'Shade of Naxxramas'
+p95
+I96
+sS"Death's Bite"
+p96
+I285
+sS'Murloc Warleader'
+p97
+I98
+sS'Inner Rage'
+p98
+I99
+sS'Blackwing Corruptor'
+p99
+I100
+sS'Wild Pyromancer'
+p100
+I101
+sS'Crackle'
+p101
+I103
+sS'Mysterious Challenger'
+p102
+I82
+sS'Coghammer'
+p103
+I106
+sS'Imp Gang Boss'
+p104
+I108
+sS'Quartermaster'
+p105
+I270
+sS'Powermace'
+p106
+I211
+sS'Flame Imp'
+p107
+I110
+sS'Doomhammer'
+p108
+I111
+sS'Museum Curator'
+p109
+I112
+sS'Twilight Drake'
+p110
+I113
+sS'Novice Engineer'
+p111
+I114
+sS'Fiery Bat'
+p112
+I115
+sS'Shadow Word: Death'
+p113
+I116
+sS'Earthen Ring Farseer'
+p114
+I238
+sS'Ancient of Lore'
+p115
+I117
+sS'Flametongue Totem'
+p116
+I118
+sS'Savage Combatant'
+p117
+I119
+sS'Fan of Knives'
+p118
+I120
+sS'Power Word: Shield'
+p119
+I121
+sS'Innervate'
+p120
+I90
+sS'Counterspell'
+p121
+I122
+sS'Freezing Trap'
+p122
+I123
+sS'Reliquary Seeker'
+p123
+I212
+sS'Gadgetzan Auctioneer'
+p124
+I125
+sS'Quick Shot'
+p125
+I126
+sS'Possessed Villager'
+p126
+I127
+sS'Shieldmaiden'
+p127
+I128
+sS'Dire Wolf Alpha'
+p128
+I129
+sS'Big Game Hunter'
+p129
+I200
+sS'Argent Horserider'
+p130
+I130
+sS'Reno Jackson'
+p131
+I131
+sS'Dreadscale'
+p132
+I132
+sS'Thunder Bluff Valiant'
+p133
+I263
+sS'Cat Trick'
+p134
+I134
+sS'Undercity Huckster'
+p135
+I69
+sS'Fireball'
+p136
+I136
+sS'Snake Trap'
+p137
+I165
+sS'Worgen Infiltrator'
+p138
+I138
+sS'Bluegill Warrior'
+p139
+I22
+sS'Keeper of the Grove'
+p140
+I140
+sS'Swipe'
+p141
+I141
+sS'Hex'
+p142
+I142
+sS'Molten Giant'
+p143
+I143
+sS'Dark Peddler'
+p144
+I144
+sS'Enchanted Raven'
+p145
+I145
+sS'Savage Roar'
+p146
+I60
+sS'Pyroblast'
+p147
+I149
+sS'Wyrmrest Agent'
+p148
+I150
+sS'Mad Scientist'
+p149
+I151
+sS'Avenge'
+p150
+I152
+sS"Kel'Thuzad"
+p151
+I153
+sS'Tinkertown Technician'
+p152
+I154
+sS'Hellfire'
+p153
+I155
+sS'Flame Juggler'
+p154
+I156
+sS'Savannah Highmane'
+p155
+I157
+sS'Steward of Darkshire'
+p156
+I158
+sS'Flamewreathed Faceless'
+p157
+I159
+sS'Argent Squire'
+p158
+I160
+sS'Twilight Whelp'
+p159
+I161
+sS'Justicar Trueheart'
+p160
+I166
+sS'Cabal Shadow Priest'
+p161
+I163
+sS'Whirling Zap-o-matic'
+p162
+I164
+sS'Doomguard'
+p163
+I137
+sS'Fire Elemental'
+p164
+I16
+sS'Cone of Cold'
+p165
+I167
+sS'SI:7 Agent'
+p166
+I170
+sS'Loot Hoarder'
+p167
+I171
+sS'Darnassus Aspirant'
+p168
+I172
+sS'Humility'
+p169
+I70
+sS'Menagerie Warden'
+p170
+I148
+sS'Nerubian Egg'
+p171
+I174
+sS'Lightning Bolt'
+p172
+I229
+sS'Shield Block'
+p173
+I268
+sS'Lava Shock'
+p174
+I146
+sS'Light of the Naaru'
+p175
+I177
+sS'Leeroy Jenkins'
+p176
+I178
+sS'Redemption'
+p177
+I80
+sS'Dread Corsair'
+p178
+I180
+sS"Vol'jin"
+p179
+I181
+sS'Ancient of War'
+p180
+I173
+sS'Knife Juggler'
+p181
+I183
+sS'Loatheb'
+p182
+I185
+sS'Injured Blademaster'
+p183
+I186
+sS'Force of Nature'
+p184
+I187
+sS'Unstable Ghoul'
+p185
+I257
+sS'Mortal Coil'
+p186
+I189
+sS'Ancient Watcher'
+p187
+I15
+sS"Hunter's Mark"
+p188
+I191
+sS'Whirlwind'
+p189
+I192
+sS'Edwin VanCleef'
+p190
+I193
+sS'Ironbeak Owl'
+p191
+I194
+sS'Aldor Peacekeeper'
+p192
+I195
+sS'Blizzard'
+p193
+I196
+sS'Forgotten Torch'
+p194
+I259
+sS'Ravaging Ghoul'
+p195
+I62
+sS'Sea Giant'
+p196
+I72
+sS'Twilight Guardian'
+p197
+I199
+sS'Violet Teacher'
+p198
+I97
+sS'Noble Sacrifice'
+p199
+I201
+sS'Ancestral Knowledge'
+p200
+I91
+sS'Darkshire Councilman'
+p201
+I107
+sS'Blade Flurry'
+p202
+I109
+sS'Rockbiter Weapon'
+p203
+I206
+sS'Twisting Nether'
+p204
+I147
+sS'Shrinkmeister'
+p205
+I208
+sS'Doomsayer'
+p206
+I209
+sS'Solemn Vigil'
+p207
+I210
+sS'Tuskarr Totemic'
+p208
+I135
+sS'Mirror Entity'
+p209
+I182
+sS'Ivory Knight'
+p210
+I213
+sS'Mechwarper'
+p211
+I162
+sS'Echoing Ooze'
+p212
+I215
+sS'Lay on Hands'
+p213
+I216
+sS'Living Roots'
+p214
+I217
+sS'Bear Trap'
+p215
+I176
+sS'Shadowflame'
+p216
+I219
+sS'Defender of Argus'
+p217
+I220
+sS'Imp-losion'
+p218
+I221
+sS'Cloaked Huntress'
+p219
+I222
+sS'Shadow Word: Pain'
+p220
+I224
+sS'Acolyte of Pain'
+p221
+I223
+sS'Eviscerate'
+p222
+I168
+sS'Tunnel Trogg'
+p223
+I13
+sS'Flamewaker'
+p224
+I227
+sS'Dr. Boom'
+p225
+I228
+sS'Backstab'
+p226
+I179
+sS'Wolfrider'
+p227
+I230
+sS'Truesilver Champion'
+p228
+I231
+sS'Deadly Poison'
+p229
+I232
+sS'Keeper of Uldaman'
+p230
+I233
+sS'Flamestrike'
+p231
+I235
+sS'Emperor Thaurissan'
+p232
+I84
+sS'Voidwalker'
+p233
+I237
+sS'Piloted Shredder'
+p234
+I197
+sS'Power Overwhelming'
+p235
+I239
+sS'Revenge'
+p236
+I240
+sS'Faceless Summoner'
+p237
+I241
+sS'Mountain Giant'
+p238
+I40
+sS'Consecration'
+p239
+I68
+sS"Sorcerer's Apprentice"
+p240
+I28
+sS'Forbidden Ritual'
+p241
+I245
+sS'Earth Shock'
+p242
+I246
+sS'Tirion Fordring'
+p243
+I247
+sS'Gorillabot A-3'
+p244
+I248
+sS'Old Murk-Eye'
+p245
+I124
+sS'Antique Healbot'
+p246
+I61
+sS'Arcane Intellect'
+p247
+I64
+sS'Sunfury Protector'
+p248
+I203
+sS'Stalagg'
+p249
+I253
+sS'Cenarius'
+p250
+I242
+sS'Fiery War Axe'
+p251
+I254
+sS'Thing from Below'
+p252
+I255
+sS'Blessing of Kings'
+p253
+I256
+sS'Forbidden Healing'
+p254
+I225
+sS'Frost Nova'
+p255
+I244
+sS'Mana Tide Totem'
+p256
+I104
+sS'Blessing of Might'
+p257
+I260
+sS'Cogmaster'
+p258
+I261
+sS'Maelstrom Portal'
+p259
+I262
+sS'Soulfire'
+p260
+I133
+sS'Frothing Berserker'
+p261
+I264
+sS'Brann Bronzebeard'
+p262
+I265
+sS'Grim Patron'
+p263
+I266
+sS'Entomb'
+p264
+I267
+sS'Unleash the Hounds'
+p265
+I175
+sS'Preparation'
+p266
+I269
+sS'Lord Jaraxxus'
+p267
+I184
+sS'Xaril, Poisoned Mind'
+p268
+I283
+sS'Lightbomb'
+p269
+I271
+sS'Abusive Sergeant'
+p270
+I214
+sS'Shiv'
+p271
+I284
+sS'Druid of the Claw'
+p272
+I273
+sS'Spirit Claws'
+p273
+I274
+sS'Arcane Blast'
+p274
+I275
+sS"Mal'Ganis"
+p275
+I276
+sS'Webspinner'
+p276
+I277
+sS'Mana Wyrm'
+p277
+I234
+sS'Slam'
+p278
+I279
+sS'Demonwrath'
+p279
+I252
+sS'Brawl'
+p280
+I169
+sS'Sylvanas Windrunner'
+p281
+I218
+sS'Sprint'
+p282
+I282
+sS'Haunted Creeper'
+p283
+I205
+sS'Mind Control Tech'
+p284
+I272
+sS'Muster for Battle'
+p285
+I188
+sS'Annoy-o-Tron'
+p286
+I53
+s.
