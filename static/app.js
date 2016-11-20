@@ -9,8 +9,8 @@ app.controller('AppCtrl', function ($scope, $http) {
     // var url = 'http://localhost:5000';
     var url = '';
 
-    $scope.inputDeck = {};
-    $scope.outputDeck = {};
+    $scope.seedCards = {};
+    $scope.outputDeck = [];
 
     $scope.cardsByClass = {
         'Warrior': [],
@@ -39,62 +39,58 @@ app.controller('AppCtrl', function ($scope, $http) {
             getNeutralCards();
         }
 
-        for (var card in $scope.inputDeck) {
+        for (var card in $scope.seedCards) {
             if ($scope.neutralCards.indexOf(card) < 0) {
-                delete $scope.inputDeck[card];
+                delete $scope.seedCards[card];
             }
         }
     }
 
     function cardCount() {
         var cardCount = 0;
-        for (var card in $scope.inputDeck) {
-            cardCount += $scope.inputDeck[card];
+        for (var card in $scope.seedCards) {
+            cardCount += $scope.seedCards[card];
         }
         return cardCount;
     }
 
 
     $scope.addCard = function () {
-        console.log("add card");
-        // var nn = new neocortex.NeuralNet({
-        //    modelFilePath: 'model.json',
-        //     arrayType: 'float32'
-        // });
-        // nn.init().then(function() {
-        //     console.log("done initing neural net");
-        //     var predictions = nn.predict(["Northshire Cleric"]);
-        // });
-
         if ($scope.selectedCard == null) return;
-        if ($scope.selectedCard in $scope.inputDeck) {
-            if ($scope.inputDeck[$scope.selectedCard] == 1) {
-                if (cardCount() < 30) $scope.inputDeck[$scope.selectedCard] = 2;
+        if ($scope.selectedCard in $scope.seedCards) {
+            if ($scope.seedCards[$scope.selectedCard] == 1) {
+                if (cardCount() < 30) $scope.seedCards[$scope.selectedCard] = 2;
             }
         } else {
-            if (cardCount() < 30) $scope.inputDeck[$scope.selectedCard] = 1;
+            if (cardCount() < 30) $scope.seedCards[$scope.selectedCard] = 1;
         }
     }
 
     $scope.removeCard = function (card) {
-        if ($scope.inputDeck[card] == 2) {
-            $scope.inputDeck[card] = 1;
+        if ($scope.seedCards[card] == 2) {
+            $scope.seedCards[card] = 1;
         } else {
-            delete $scope.inputDeck[card];
+            delete $scope.seedCards[card];
         }
+    }
+
+    $scope.clear = function () {
+        $scope.seedCards = {};
     }
 
     $scope.generateDeck = function () {
         console.log("generate deck");
-        // Make request and set the response to outputDeck
-
-        // $http.get(url + '/gen', $scope.inputDeck).success(function(generatedDeck) {
-        //     console.log('generate deck success', generatedDeck);
-        //     // $scope.outputDeck = generatedDeck;
-        // });
-        $http.get(url + '/gen').success(function(generatedDeck) {
+        var toSend = []
+        for (var card in $scope.seedCards) {
+            toSend.push(card);
+            if ($scope.seedCards[card] == 2) {
+                toSend.push(card);
+            }
+        }
+        console.log(toSend);
+        $http.get(url + '/gen', {params: {seed: toSend}}).success(function(generatedDeck) {
             console.log('generate deck success', generatedDeck);
-            $scope.outputDeck = [generatedDeck];
+            $scope.outputDeck = generatedDeck;
         });
     }
 

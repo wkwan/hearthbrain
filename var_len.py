@@ -6,7 +6,7 @@ from keras.preprocessing.sequence import pad_sequences
 from keras.models import model_from_json
 from keras.callbacks import ModelCheckpoint
 
-def generateDeck():
+def generateDeck(seed_cards):
     # fix random seed for reproducibility
     numpy.random.seed(7)
 
@@ -26,6 +26,13 @@ def generateDeck():
             cur_deck = []
         else:
             card = line[3:].strip()
+
+            words = card.split()
+            if (words[-1] == 'LoE' or words[-1] == 'Kara' or words[-1] == 'Naxx' or
+                words[-1] == 'GvG' or words[-1] == 'BrM' or words[-1] == 'TGT' or
+                words[-1] == 'TOG'):
+                card = ' '.join(words[0:-1])
+
             if (line[0] == '2'):
                 cur_deck.append(card)
                 cur_deck.append(card)
@@ -53,13 +60,7 @@ def generateDeck():
                 dataY.append(input[len(input)-1])
                 # print(dataX[len(dataX)-1], '->', dataY[len(dataY)-1])
 
-        print("before padding")
         X = pad_sequences(dataX, maxlen=MAX_INPUT_LEN, dtype='float32')
-        print("first padded", X[0]);
-        print("first padded", X[1]);
-        print("first padded", X[2]);
-        print("first padded", X[3]);
-
         # normalize
         X = X / float(len(unique_cards))
         # one hot encode the output variable
@@ -90,24 +91,27 @@ def generateDeck():
         return model
 
     def generate(model):
-        test_input_text = ["Mounted Raptor LoE", "Savage Roar", "Living Roots TGT", "Swipe", "Big Game Hunter"]
+        # test_input_text = ["Mounted Raptor", "Savage Roar", "Living Roots", "Swipe", "Big Game Hunter"]
         # test_input_text = ["Earthen Ring Farseer", "Argent Squire", "Bloodmage Thalnos"]
         # test_input_text = ["Mounted Raptor LoE", "Mad Scientist Naxx", "Alexstrasza"]
         # test_input_text = ["Ice Barrier", "Frostbolt", "Archmage Antonidas", "Spider Tank GvG", "Loatheb Naxx", "Annoy-o-Tron GvG", "Cogmaster GvG"]
         # test_input_text = ["Northshire Cleric", "Twilight Guardian TGT"]
-        test_input = list(card_to_int[card] for card in test_input_text)
-        generated_deck_len = len(test_input)
-        while len(test_input) < 30:
-            padded_input = pad_sequences([test_input], maxlen=MAX_INPUT_LEN)
-            print("padded input is", padded_input)
+        seed_input = []
+        for card in seed_cards:
+            str_card = str(card)
+            if str_card in card_to_int:
+                seed_input.append(card_to_int[str_card])
+
+        print("going to use seed input of", seed_input)
+
+        while len(seed_input) < 30:
+            padded_input = pad_sequences([seed_input], maxlen=MAX_INPUT_LEN)
             padded_input = padded_input / float(len(unique_cards))
             prediction = model.predict(padded_input, verbose=0)
             index = numpy.argmax(prediction)
-            result = int_to_card[index]
-            print("generated", result)
-            test_input.append(index)
+            seed_input.append(index)
 
-        return list(int_to_card[card_int] for card_int in test_input)
+        return list(int_to_card[card_int] for card_int in seed_input)
 
     json_file = open('model.json', 'r')
     loaded_model_json = json_file.read()
