@@ -7,6 +7,9 @@ from keras.models import model_from_json
 from keras.callbacks import ModelCheckpoint
 import pickle
 
+from keras.wrappers.scikit_learn import KerasClassifier
+from sklearn.grid_search import GridSearchCV
+
 MAX_LEN = 30
 MAX_INPUT_LEN = MAX_LEN - 1
 with open('card_to_int.pickle', 'rb') as handle:
@@ -18,6 +21,7 @@ with open('model.json', 'r') as handle:
 model = model_from_json(loaded_model_json)
 # model.load_weights("weights.final.h5")
 model.load_weights("weights.final.h5")
+
 
 def train():
     numpy.random.seed(7)
@@ -79,26 +83,40 @@ def train():
     y = np_utils.to_categorical(dataY)
     print("shapes", X.shape, y.shape)
 
-    batch_size = 1
+    def create_model():
+        model = Sequential()
+        model.add(Dense(8, input_dim=MAX_INPUT_LEN, activation='relu'))
+        model.add(Dense(y.shape[1], activation='softmax'))
+        model.compile(loss='categorical_crossentropy', optimizer='adam', metrics=['accuracy'])
+        return model
 
-    model = Sequential()
-    model.add(Dense(8, input_dim=MAX_INPUT_LEN, activation='relu'))
-    model.add(Dense(y.shape[1], activation='softmax'))
+    # filepath = "weights.best.h5"
+    # filepath = "weights.testbest.h5"
+    # checkpoint = ModelCheckpoint(filepath, monitor='val_acc', verbose=1, save_best_only=True, mode='max')
+    # callbacks_list = [checkpoint]
 
-    model.compile(loss='categorical_crossentropy', optimizer='adam', metrics=['accuracy'])
-    filepath = "weights.best.h5"
-    checkpoint = ModelCheckpoint(filepath, monitor='val_acc', verbose=1, save_best_only=True, mode='max')
-    callbacks_list = [checkpoint]
+    # model = create_model()
+    # model.fit(X, y, nb_epoch=100, batch_size=1, verbose=2, validation_split=0.33, callbacks=callbacks_list)
+    # model_json = model.to_json()
+    # with open("model.json", "w") as json_file:
+    #     json_file.write(model_json)
+    # model.save_weights("weights.testfinal.h5")
+    # scores = model.evaluate(X, y, verbose=0)
+    # print("Model Accuracy: %.2f%%" % (scores[1] * 100))
 
-    model.fit(X, y, nb_epoch=100, batch_size=batch_size, verbose=2, validation_split=0.33, callbacks=callbacks_list)
+    model = KerasClassifier(build_fn=create_model)
 
-    model_json = model.to_json()
-    with open("model.json", "w") as json_file:
-        json_file.write(model_json)
-    model.save_weights("weights.final.h5")
 
-    scores = model.evaluate(X, y, verbose=0)
-    print("Model Accuracy: %.2f%%" % (scores[1] * 100))
+    nb_epochs = [50, 100, 200, 500]
+    batch_sizes = [1, 5, 10, 20, 30]
+    param_grid = dict(nb_epoch=nb_epochs, batch_size=batch_sizes, verbose=[2], validation_split=[0.33])
+    grid = GridSearchCV(estimator=model, param_grid=param_grid)
+    grid_result = grid.fit(X, y)
+    print("Best: %f using %s" % (grid_result.best_score_, grid_result.best_params_))
+
+    for params, mean_score, scores in grid_result.grid_scores_:
+        print("%f (%f) with: %r" % (scores.mean(), scores.std(), params))
+
 
     return model
 
@@ -129,5 +147,5 @@ if __name__ == "__main__":
     # test_input_text = ["Ice Barrier", "Frostbolt", "Archmage Antonidas", "Spider Tank GvG", "Loatheb Naxx", "Annoy-o-Tron GvG", "Cogmaster GvG"]
     # test_input_text = ["Northshire Cleric", "Twilight Guardian TGT", "Sylvanas Windrunner", "Dr. Boom", "Wild Pyromancer"]
     # test_input_text = ["Cat Trick", "Unleash the Hounds", "Call of the Wild"]
-    print(generate_deck(test_input_text))
-    # model = train()
+    # print(generate_deck(test_input_text))
+    model = train()
