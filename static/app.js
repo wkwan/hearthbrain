@@ -57,12 +57,13 @@ app.controller('AppCtrl', function ($scope, $http) {
 
     $scope.addCard = function () {
         if ($scope.selectedCard == null) return;
-        if ($scope.selectedCard in $scope.seedCards) {
-            if ($scope.seedCards[$scope.selectedCard] == 1) {
-                if (cardCount() < 30) $scope.seedCards[$scope.selectedCard] = 2;
+        console.log("tried to add card", $scope.selectedCard.name)
+        if ($scope.selectedCard.name in $scope.seedCards) {
+            if ($scope.seedCards[$scope.selectedCard.name] == 1) {
+                if (cardCount() < 30 && $scope.selectedCard.rarity != "Legendary") $scope.seedCards[$scope.selectedCard.name] = 2;
             }
         } else {
-            if (cardCount() < 30) $scope.seedCards[$scope.selectedCard] = 1;
+            if (cardCount() < 30) $scope.seedCards[$scope.selectedCard.name] = 1;
         }
     }
 
@@ -87,8 +88,8 @@ app.controller('AppCtrl', function ($scope, $http) {
                 toSend.push(card);
             }
         }
-        console.log(toSend);
-        $http.get(url + '/gen', {params: {seed: toSend}}).success(function(generatedDeck) {
+        console.log(toSend, $scope.selectedClass);
+        $http.get(url + '/gen', {params: {seed: toSend, seed_class: $scope.selectedClass}}).success(function(generatedDeck) {
             console.log('generate deck success', generatedDeck);
             $scope.outputDeck = generatedDeck;
         });
@@ -109,12 +110,12 @@ app.controller('AppCtrl', function ($scope, $http) {
             // this callback will be called asynchronously
             // when the response is available
             if (response.status == 200) {
+                console.log(response)
                 for (var i = 0; i < response.data.length; i++) {
                     var card = response.data[i];
                     if (card.type == "Minion" || card.type == "Spell" || card.type == "Weapon" && card.collectible) {
-                        $scope.cardsByClass[$scope.selectedClass].push(card.name);
+                        $scope.cardsByClass[$scope.selectedClass].push(card);
                     }
-
                 }
 
             }
@@ -135,10 +136,12 @@ app.controller('AppCtrl', function ($scope, $http) {
             // this callback will be called asynchronously
             // when the response is available
             if (response.status == 200) {
+                console.log(response)
+
                 for (var i = 0; i < response.data.length; i++) {
                     var card = response.data[i];
                     if (card.type == "Minion" || card.type == "Spell" || card.type == "Weapon" && card.collectible) {
-                        $scope.neutralCards.push(card.name);
+                        $scope.neutralCards.push(card);
                     }
 
                 }

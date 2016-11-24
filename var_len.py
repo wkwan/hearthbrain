@@ -6,22 +6,46 @@ from keras.preprocessing.sequence import pad_sequences
 from keras.models import model_from_json
 from keras.callbacks import ModelCheckpoint
 import pickle
+import requests
 
 from keras.wrappers.scikit_learn import KerasClassifier
 from sklearn.grid_search import GridSearchCV
 
+
+def get_all_cards(class_str):
+    return requests.get('https://omgvamp-hearthstone-v1.p.mashape.com/cards/classes/' + class_str + '?collectible=1',
+                        headers={
+                            'X-Mashape-Key': 'NXohkzLH9CmshmkxPUTtI3d3k9ZNp1HIGwxjsnfBKub61oQpDR'
+                        }).json()
+    return cards
+
+NEUTRAL = 'Neutral'
+WARRIOR = 'Warrior'
+SHAMAN = 'Shaman'
+ROGUE = 'Rogue'
+HUNTER = 'Hunter'
+DRUID = 'Druid'
+WARLOCK = 'Warlock'
+MAGE = 'Mage'
+PRIEST = 'Priest'
+
 MAX_LEN = 30
 MAX_INPUT_LEN = MAX_LEN - 1
+
+with open('cards_by_class.pickle', 'rb') as handle:
+    cards_by_class = pickle.load(handle)
+
 with open('card_to_int.pickle', 'rb') as handle:
-    card_to_int = pickle.load(open('card_to_int.pickle', 'rb'))
+    card_to_int = pickle.load(handle)
 with open('int_to_card.pickle', 'rb') as handle:
-    int_to_card = pickle.load(open('int_to_card.pickle', 'rb'))
+    int_to_card = pickle.load(handle)
 with open('model.json', 'r') as handle:
     loaded_model_json = handle.read()
 model = model_from_json(loaded_model_json)
-model.load_weights("weightsmoredecks.final.h5")
-# model.load_weights("weights.final.h5")
+model.load_weights("weightsrestrictions.final.h5")
 
+
+# model.load_weights("weights.final.h5")
 
 def train():
     numpy.random.seed(7)
@@ -53,7 +77,6 @@ def train():
                 cur_deck.append(card)
             unique_cards.add(card)
 
-    print(len(unique_cards))
 
     card_to_int = dict((c, i + 1) for i, c in enumerate(unique_cards))
     int_to_card = dict((i + 1, c) for i, c in enumerate(unique_cards))
@@ -68,7 +91,7 @@ def train():
 
     for deck in decks:
         deck_ints = list(card_to_int[card] for index, card in enumerate(deck))
-        print("Deck is", deck_ints)
+        # print("Deck is", deck_ints)
         for i in range(1000):
             input_len = numpy.random.randint(2, MAX_LEN)
             input = numpy.random.choice(deck_ints, input_len)
@@ -81,7 +104,6 @@ def train():
     X = X / float(len(card_to_int))
     # one hot encode the output variable
     y = np_utils.to_categorical(dataY)
-    print("shapes", X.shape, y.shape)
 
     def create_model():
         model = Sequential()
@@ -90,7 +112,7 @@ def train():
         model.compile(loss='categorical_crossentropy', optimizer='adam', metrics=['accuracy'])
         return model
 
-    filepath = "weightsmoredecks.best.h5"
+    filepath = "weightsrestrictions.best.h5"
     checkpoint = ModelCheckpoint(filepath, monitor='val_acc', verbose=1, save_best_only=True, mode='max')
     callbacks_list = [checkpoint]
 
@@ -99,7 +121,7 @@ def train():
     model_json = model.to_json()
     with open("model.json", "w") as json_file:
         json_file.write(model_json)
-    model.save_weights("weightsmoredecks.final.h5")
+    model.save_weights("weightsrestrictions.final.h5")
     scores = model.evaluate(X, y, verbose=0)
     print("Model Accuracy: %.2f%%" % (scores[1] * 100))
 
@@ -115,26 +137,48 @@ def train():
     # for params, mean_score, scores in grid_result.grid_scores_:
     #     print("%f (%f) with: %r" % (scores.mean(), scores.std(), params))
 
+    cards_by_class = {}
+    classes = [NEUTRAL, WARRIOR, SHAMAN, ROGUE, HUNTER, DRUID, WARLOCK, MAGE, PRIEST]
+    for a_class in classes:
+        cards_by_class[a_class] = {}
+        cards_json = get_all_cards(a_class)
+        for card_json in cards_json:
+            cards_by_class[a_class][str(card_json['name'])] = str(card_json['rarity']) == 'Legendary'
+    with open('cards_by_class.pickle', 'wb') as handle:
+        pickle.dump(cards_by_class, handle)
 
     return model
 
 
-def generate_deck(seed_cards):
+def generate_deck(seed_cards, seed_class):
+    str_class = str(seed_class)
+
     seed_input = []
     for card in seed_cards:
         str_card = str(card)
         if str_card in card_to_int:
             seed_input.append(card_to_int[str_card])
 
-    print("going to use seed input of", seed_input)
+    # print("going to use seed input of", seed_input)
 
     while len(seed_input) < 30:
         padded_input = pad_sequences([seed_input], maxlen=MAX_INPUT_LEN)
         padded_input = padded_input / float(len(card_to_int))
         prediction = model.predict(padded_input, verbose=0)
-        print("prediction", prediction)
-        index = numpy.argmax(prediction)
-        seed_input.append(index)
+        # print("prediction", prediction.shape)
+        sorted = numpy.argsort(prediction[0])
+
+        for i in range(len(sorted) - 1, -1, -1):
+            card_str = int_to_card[sorted[i]]
+            if card_str in cards_by_class[str_class] or card_str in cards_by_class[NEUTRAL]:
+                if card_str in cards_by_class[str_class]:
+                    is_legendary = cards_by_class[str_class][card_str]
+                else:
+                    is_legendary = cards_by_class[NEUTRAL][card_str]
+                occurrences = seed_input.count(sorted[i])
+                if (is_legendary and occurrences < 1) or (not is_legendary and occurrences < 2):
+                    seed_input.append(sorted[i])
+                    break
 
     return list(int_to_card[card_int] for card_int in seed_input)
 
@@ -142,10 +186,11 @@ def generate_deck(seed_cards):
 if __name__ == "__main__":
     # test_input_text = ["Flame Imp", "SoulFire", "Voidwalker", "Dark Peddler", "Wrathguard", "Imp Gang Boss"]
     # test_input_text = ["Savage Roar", "Living Roots", "Swipe"]
-    # test_input_text = ["Earthen Ring Farseer", "Argent Squire", "Bloodmage Thalnos"]
+    test_input_text = ["Earthen Ring Farseer", "Argent Squire", "Bloodmage Thalnos"]
     # test_input_text = ["Mounted Raptor LoE", "Mad Scientist Naxx", "Alexstrasza"]
     # test_input_text = ["Ice Barrier", "Frostbolt", "Archmage Antonidas", "Spider Tank GvG", "Loatheb Naxx", "Annoy-o-Tron GvG", "Cogmaster GvG"]
-    test_input_text = ["Northshire Cleric", "Twilight Guardian TGT", "Sylvanas Windrunner", "Dr. Boom", "Wild Pyromancer"]
+    # test_input_text = ["Northshire Cleric", "Twilight Guardian TGT", "Sylvanas Windrunner", "Dr. Boom", "Wild Pyromancer"]
     # test_input_text = ["Cat Trick", "Unleash the Hounds", "Call of the Wild"]
-    print(generate_deck(test_input_text))
+    test_input_class = ROGUE
+    print(generate_deck(test_input_text, test_input_class))
     # model = train()

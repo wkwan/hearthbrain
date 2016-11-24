@@ -19,8 +19,7 @@ def hello_world():
 
 @app.route('/gen')
 def gen():
-    print("generate deck from ", request.args.getlist("seed"))
-    return json.dumps(generate_deck(request.args.getlist("seed")))
+    return json.dumps(generate_deck(request.args.getlist('seed'), request.args.get('seed_class')))
 
 if __name__ == '__main__':
     app.debug = True

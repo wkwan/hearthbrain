@@ -38,14 +38,18 @@
             <div class="row">
                 <div class="col-sm-4 card-selector">
                     <select ng-model="selectedCard"
-                            ng-options="x for x in cardsByClass[selectedClass] | filter:searchText"
+                            ng-options="aCard.name for aCard in cardsByClass[selectedClass] | filter:searchText"
                             size="10" ng-click="addCard()">
                     </select>
+                    <!--<select ng-model="selectedCard" ng-click="addCard()">-->
+                    <!--<option ng-repeat="card in cardsByClass[selectedClass]">{[card.name]}</option>-->
+                    <!--</select>-->
                 </div>
 
                 <div class="col-sm-4 card-selector">
-                    <select ng-model="selectedCard" ng-options="x for x in neutralCards | filter:searchText" size="10"
-                            ng-click="addCard()">
+                    <select ng-model="selectedCard"
+                            ng-options="aCard.name for aCard in neutralCards | filter:searchText"
+                            size="10" ng-click="addCard()">
                     </select>
                 </div>
             </div>
