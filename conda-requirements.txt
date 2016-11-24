@@ -2,4 +2,4 @@ nomkl
 numpy
 scipy
 h5py
-sklearn
+scikit-learn
