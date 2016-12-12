@@ -12,6 +12,8 @@ app.controller('AppCtrl', function ($scope, $http) {
     $scope.seedCards = {};
     $scope.outputDeck = [];
 
+    $scope.showSpinner = false;
+
     $scope.cardsByClass = {
         'Warrior': [],
         'Shaman': [],
@@ -81,7 +83,7 @@ app.controller('AppCtrl', function ($scope, $http) {
     }
 
     $scope.generateDeck = function () {
-        console.log("generate deck");
+        $scope.showSpinner = true;
         var toSend = []
         for (var card in $scope.seedCards) {
             toSend.push(card);
@@ -91,8 +93,8 @@ app.controller('AppCtrl', function ($scope, $http) {
         }
         console.log(toSend, $scope.selectedClass);
         $http.get(url + '/gen', {params: {seed: toSend, seed_class: $scope.selectedClass}}).success(function(generatedDeck) {
-            console.log('generate deck success', generatedDeck);
             $scope.outputDeck = generatedDeck;
+            $scope.showSpinner = false;
         });
     }
 

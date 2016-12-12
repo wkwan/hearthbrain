@@ -20,16 +20,6 @@
 <div class="container main">
 
     <div class="row">
-        <div class="col-sm-12">
-            <button id="singlebutton" name="singlebutton" class="btn btn-primary center-block"
-                    ng-click="generateDeck()">
-                Generate Deck
-        </div>
-        <br>
-        </button>
-    </div>
-
-    <div class="row">
         <div class="col-md-4 col-sm-12 text-center">
             <div class="spaced-box">
                 <p style="display:inline">Class</p>
@@ -62,7 +52,7 @@
 
         <div class="col-md-4 col-sm-12 text-center">
             <div class="spaced-box">
-                <p style="display:inline"><b>Seed Cards</b></p>
+                <p style="display:inline"><b>Cards to Include</b></p>
                 <button class="btn btn-default" ng-click="clear()">Clear</button>
 
             </div>
@@ -81,14 +71,22 @@
         </div>
     </div>
 
+
     <div class="row">
-        <div class="col-sm-12">
+        <div class="col-sm-12 text-center spaced-box">
             <button id="singlebutton" name="singlebutton" class="btn btn-primary center-block"
-                    ng-click="generateDeck()">
+                    ng-click="generateDeck()" ng-hide="showSpinner">
                 Generate Deck
+            </button>
+            <div class="spinner" ng-show="showSpinner">
+                <p>HearthBrain is thinking...</p>
+            </div>
         </div>
+
+
         <br>
-        </button>
+
+
     </div>
 
 
