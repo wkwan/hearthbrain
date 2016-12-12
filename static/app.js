@@ -65,6 +65,7 @@ app.controller('AppCtrl', function ($scope, $http) {
         } else {
             if (cardCount() < 30) $scope.seedCards[$scope.selectedCard.name] = 1;
         }
+        delete $scope.selectedCard
     }
 
     $scope.removeCard = function (card) {
