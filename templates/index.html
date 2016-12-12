@@ -18,73 +18,76 @@
 
 
 <div class="container main">
+
     <div class="row">
-
-        <div class="col-sm-6">
-            <div>
-                <select ng-model="selectedClass" ng-change="changeClass()">
-                    <option ng-repeat="(class, cards) in cardsByClass">{[class]}</option>
-                </select>
-
-                <input type="text" ng-model="searchText"/>
-            </div>
+        <div class="col-sm-12">
+            <button id="singlebutton" name="singlebutton" class="btn btn-primary center-block"
+                    ng-click="generateDeck()">
+                Generate Deck
         </div>
-
-
+        <br>
+        </button>
     </div>
 
     <div class="row">
-        <div class="col-sm-8">
-            <div class="row">
-                <div class="col-sm-4 card-selector">
-                    <select ng-model="selectedCard"
-                            ng-options="aCard.name for aCard in cardsByClass[selectedClass] | filter:searchText"
-                            size="10" ng-click="addCard()">
-                    </select>
-                    <!--<select ng-model="selectedCard" ng-click="addCard()">-->
-                    <!--<option ng-repeat="card in cardsByClass[selectedClass]">{[card.name]}</option>-->
-                    <!--</select>-->
-                </div>
-
-                <div class="col-sm-4 card-selector">
-                    <select ng-model="selectedCard"
-                            ng-options="aCard.name for aCard in neutralCards | filter:searchText"
-                            size="10" ng-click="addCard()">
-                    </select>
-                </div>
+        <div class="col-md-4 col-sm-12 text-center">
+            <div class="spaced-box">
+                <p style="display:inline">Class</p>
+                <select ng-model="selectedClass" ng-change="changeClass()">
+                    <option ng-repeat="(class, cards) in cardsByClass">{[class]}</option>
+                </select>
             </div>
-            <div class="row">
-                <div class="col-sm-8">
-                    <button id="singlebutton" name="singlebutton" class="btn btn-gen btn-primary"
-                            ng-click="generateDeck()">
-                        Generate Deck
-                    </button>
-                    <li ng-repeat="card in outputDeck track by $index">{[card]}</li>
-                </div>
 
+
+            <div class="spaced-box">
+                <input class="bottom" type="text" ng-model="searchText"/>
+
+            </div>
+
+            <div class="spaced-box">
+                <select ng-model="selectedCard"
+                        ng-options="aCard.name for aCard in cardsByClass[selectedClass] | filter:searchText"
+                        size="10" ng-click="addCard()">
+                </select>
+            </div>
+
+            <div class="spaced-box">
+                <select ng-model="selectedCard"
+                        ng-options="aCard.name for aCard in neutralCards | filter:searchText"
+                        size="10" ng-click="addCard()">
+                </select>
             </div>
 
         </div>
 
+        <div class="col-md-4 col-sm-12 text-center">
+            <div class="spaced-box">
+                <p><b>Seed Cards</b></p>
 
-        <div class="col-sm-4">
-            <div class="row">
-                <div class="col-sm-3">
-                    <p><b>Seed Cards</b></p>
-
-                </div>
-                <div class="col-sm-1">
-                    <button class="btn btn-default" ng-click="clear()">Clear</button>
-
-                </div>
             </div>
-
             <li ng-repeat="(card, count) in seedCards" class="selected-cards">
                 <button class="btn btn-default" ng-click="removeCard(card)">{[card]}: {[count]}</button>
             </li>
 
         </div>
 
+        <div class="col-md-4 col-sm-12 text-center">
+            <div class="spaced-box">
+                <p><b>Generated Deck</b></p>
+
+            </div>
+            <li ng-repeat="card in outputDeck track by $index">{[card]}</li>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-sm-12">
+            <button id="singlebutton" name="singlebutton" class="btn btn-primary center-block"
+                    ng-click="generateDeck()">
+                Generate Deck
+        </div>
+        <br>
+        </button>
     </div>
 
 

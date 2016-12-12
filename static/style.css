@@ -36,11 +36,6 @@ body {
     padding-bottom: 40px;
 }
 
-.btn-gen {
-    margin-top: 40px;
-    margin-bottom: 40px;
-}
-
 .github {
     padding-top: 10px;
     padding-right: 10px;
@@ -58,6 +53,11 @@ body {
 .selected-cards {
     list-style-type: none;
     padding-bottom: 3px;
+}
+
+.spaced-box {
+    padding-top: 4px;
+    padding-bottom: 4px;
 }
 
 
