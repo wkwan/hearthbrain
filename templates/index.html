@@ -47,14 +47,14 @@
             <div class="spaced-box">
                 <select ng-model="selectedCard"
                         ng-options="aCard.name for aCard in cardsByClass[selectedClass] | filter:searchText"
-                        size="10" ng-click="addCard()">
+                        size="10" ng-change="addCard()">
                 </select>
             </div>
 
             <div class="spaced-box">
                 <select ng-model="selectedCard"
                         ng-options="aCard.name for aCard in neutralCards | filter:searchText"
-                        size="10" ng-click="addCard()">
+                        size="10" ng-change="addCard()">
                 </select>
             </div>
 
