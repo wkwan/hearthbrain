@@ -10,7 +10,7 @@ app.controller('AppCtrl', function ($scope, $http) {
     var url = '';
 
     $scope.seedCards = {};
-    $scope.outputDeck = [];
+    $scope.outputDeck = {};
 
     $scope.showSpinner = false;
 
@@ -59,7 +59,6 @@ app.controller('AppCtrl', function ($scope, $http) {
 
     $scope.addCard = function () {
         if ($scope.selectedCard == null) return;
-        console.log("tried to add card", $scope.selectedCard.name)
         if ($scope.selectedCard.name in $scope.seedCards) {
             if ($scope.seedCards[$scope.selectedCard.name] == 1) {
                 if (cardCount() < 30 && $scope.selectedCard.rarity != "Legendary") $scope.seedCards[$scope.selectedCard.name] = 2;
@@ -84,20 +83,26 @@ app.controller('AppCtrl', function ($scope, $http) {
 
     $scope.generateDeck = function () {
         $scope.showSpinner = true;
-        var toSend = []
+        var toSend = [];
         for (var card in $scope.seedCards) {
             toSend.push(card);
             if ($scope.seedCards[card] == 2) {
                 toSend.push(card);
             }
         }
-        console.log(toSend, $scope.selectedClass);
         $http.get(url + '/gen', {params: {seed: toSend, seed_class: $scope.selectedClass}}).success(function(generatedDeck) {
-            $scope.outputDeck = generatedDeck;
+            $scope.outputDeck = {};
+            for (var i in generatedDeck) {
+                if (generatedDeck[i] in $scope.outputDeck) {
+                    $scope.outputDeck[generatedDeck[i]] = 2;
+                } else {
+                    $scope.outputDeck[generatedDeck[i]] = 1;
+                }
+            }
+
             $scope.showSpinner = false;
         });
     }
-
 
     getClassCards();
     getNeutralCards();

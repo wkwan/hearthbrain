@@ -67,7 +67,7 @@
                 <p><b>Generated Deck</b></p>
 
             </div>
-            <li ng-repeat="card in outputDeck track by $index">{[card]}</li>
+            <li ng-repeat="(card, count) in outputDeck">{[card]}: {[count]}</li>
         </div>
     </div>
 
