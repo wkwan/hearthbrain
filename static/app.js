@@ -99,9 +99,6 @@ app.controller('AppCtrl', function ($scope, $http) {
                     $scope.outputDeck[generatedDeck[i]] = 1;
                 }
             }
-
-            console.log($scope.outputDeck);
-
             $scope.showSpinner = false;
         });
     }
