@@ -43,6 +43,7 @@ with open('model.json', 'r') as handle:
     loaded_model_json = handle.read()
 model = model_from_json(loaded_model_json)
 model.load_weights("weightsrestrictions.final.h5")
+# model.load_weights("weightsrestrictions.best.h5")
 
 
 # model.load_weights("weights.final.h5")
@@ -67,7 +68,7 @@ def train():
             words = card.split()
             if (words[-1] == 'LoE' or words[-1] == 'Kara' or words[-1] == 'Naxx' or
                         words[-1] == 'GvG' or words[-1] == 'BrM' or words[-1] == 'TGT' or
-                        words[-1] == 'TOG'):
+                        words[-1] == 'TOG' or words[-1] == 'MSG'):
                 card = ' '.join(words[0:-1])
 
             if (line[0] == '2'):
@@ -160,9 +161,10 @@ def generate_deck(seed_cards, seed_class):
         str_card = str(card)
         if str_card in card_to_int:
             seed_input.append(card_to_int[str_card])
+            print("Using", str_card, "in seed")
         else:
             seed_input.append(0)
-
+            print("Not using", str_card, "in seed")
 
     while len(seed_input) < 30:
         padded_input = pad_sequences([seed_input], maxlen=MAX_INPUT_LEN)
@@ -192,11 +194,12 @@ def generate_deck(seed_cards, seed_class):
 if __name__ == "__main__":
     # test_input_text = ["Flame Imp", "SoulFire", "Voidwalker", "Dark Peddler", "Wrathguard", "Imp Gang Boss"]
     # test_input_text = ["Savage Roar", "Living Roots", "Swipe"]
-    test_input_text = ["Earthen Ring Farseer", "Nfsd", "Argent Squire", "Bloodmage Thalnos", "fsd"]
-    # test_input_text = ["Mounted Raptor LoE", "Mad Scientist Naxx", "Alexstrasza"]
-    # test_input_text = ["Ice Barrier", "Frostbolt", "Archmage Antonidas", "Spider Tank GvG", "Loatheb Naxx", "Annoy-o-Tron GvG", "Cogmaster GvG"]
-    # test_input_text = ["Northshire Cleric", "Twilight Guardian TGT", "Sylvanas Windrunner", "Dr. Boom", "Wild Pyromancer"]
+    # test_input_text = ["Earthen Ring Farseer", "Nfsd", "Argent Squire", "Bloodmage Thalnos", "fsd"]
+    # test_input_text = ["Mounted Raptor", "Mad Scientist", "Alexstrasza"]
+    # test_input_text = ["Ice Barrier", "Frostbolt", "Archmage Antonidas", "Spider Tank GvG", "Loatheb", "Annoy-o-Tron GvG", "Cogmaster GvG"]
+    # test_input_text = ["Northshire Cleric", "Twilight Guardian", "Sylvanas Windrunner", "Dr. Boom", "Wild Pyromancer"]
     # test_input_text = ["Cat Trick", "Unleash the Hounds", "Call of the Wild"]
-    test_input_class = ROGUE
+    test_input_text = ["Kun the Forgotten King", "Aviana", "Feral Rage", "Call of the Wild", "call of the wild", "Wild Growth"]
+    test_input_class = DRUID
     print(generate_deck(test_input_text, test_input_class))
     # model = train()
