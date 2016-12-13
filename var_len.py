@@ -153,13 +153,16 @@ def train():
 def generate_deck(seed_cards, seed_class):
     str_class = str(seed_class)
 
+    output = list(str(card) for card in seed_cards)
+
     seed_input = []
     for card in seed_cards:
         str_card = str(card)
         if str_card in card_to_int:
             seed_input.append(card_to_int[str_card])
+        else:
+            seed_input.append(0)
 
-    # print("going to use seed input of", seed_input)
 
     while len(seed_input) < 30:
         padded_input = pad_sequences([seed_input], maxlen=MAX_INPUT_LEN)
@@ -180,13 +183,16 @@ def generate_deck(seed_cards, seed_class):
                     seed_input.append(sorted[i])
                     break
 
-    return list(int_to_card[card_int] for card_int in seed_input)
+
+    for i in range(len(seed_cards), 30):
+        output.append(int_to_card[seed_input[i]])
+    return output
 
 
 if __name__ == "__main__":
     # test_input_text = ["Flame Imp", "SoulFire", "Voidwalker", "Dark Peddler", "Wrathguard", "Imp Gang Boss"]
     # test_input_text = ["Savage Roar", "Living Roots", "Swipe"]
-    test_input_text = ["Earthen Ring Farseer", "Argent Squire", "Bloodmage Thalnos"]
+    test_input_text = ["Earthen Ring Farseer", "Nfsd", "Argent Squire", "Bloodmage Thalnos", "fsd"]
     # test_input_text = ["Mounted Raptor LoE", "Mad Scientist Naxx", "Alexstrasza"]
     # test_input_text = ["Ice Barrier", "Frostbolt", "Archmage Antonidas", "Spider Tank GvG", "Loatheb Naxx", "Annoy-o-Tron GvG", "Cogmaster GvG"]
     # test_input_text = ["Northshire Cleric", "Twilight Guardian TGT", "Sylvanas Windrunner", "Dr. Boom", "Wild Pyromancer"]
