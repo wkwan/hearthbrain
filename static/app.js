@@ -100,6 +100,8 @@ app.controller('AppCtrl', function ($scope, $http) {
                 }
             }
 
+            console.log($scope.outputDeck);
+
             $scope.showSpinner = false;
         });
     }
@@ -118,7 +120,6 @@ app.controller('AppCtrl', function ($scope, $http) {
             // this callback will be called asynchronously
             // when the response is available
             if (response.status == 200) {
-                console.log(response)
                 for (var i = 0; i < response.data.length; i++) {
                     var card = response.data[i];
                     if (card.type == "Minion" || card.type == "Spell" || card.type == "Weapon" && card.collectible) {
@@ -144,8 +145,6 @@ app.controller('AppCtrl', function ($scope, $http) {
             // this callback will be called asynchronously
             // when the response is available
             if (response.status == 200) {
-                console.log(response)
-
                 for (var i = 0; i < response.data.length; i++) {
                     var card = response.data[i];
                     if (card.type == "Minion" || card.type == "Spell" || card.type == "Weapon" && card.collectible) {
