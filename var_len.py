@@ -28,6 +28,7 @@ DRUID = 'Druid'
 WARLOCK = 'Warlock'
 MAGE = 'Mage'
 PRIEST = 'Priest'
+PALADIN = 'Paladin'
 
 MAX_LEN = 30
 MAX_INPUT_LEN = MAX_LEN - 1
@@ -139,7 +140,7 @@ def train():
     #     print("%f (%f) with: %r" % (scores.mean(), scores.std(), params))
 
     cards_by_class = {}
-    classes = [NEUTRAL, WARRIOR, SHAMAN, ROGUE, HUNTER, DRUID, WARLOCK, MAGE, PRIEST]
+    classes = [NEUTRAL, WARRIOR, SHAMAN, ROGUE, HUNTER, DRUID, WARLOCK, MAGE, PRIEST, PALADIN]
     for a_class in classes:
         cards_by_class[a_class] = {}
         cards_json = get_all_cards(a_class)

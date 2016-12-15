@@ -428,2599 +428,2815 @@ I00
 sS"Death's Bite"
 p145
 I00
-ssS'Priest'
+ssS'Paladin'
 p146
 (dp147
-S'Dark Cultist'
+S'Nightbane Templar'
 p148
 I00
-sS'Shifting Shade'
+sS'Holy Wrath'
 p149
 I00
-sS'Lightspawn'
+sS'Hammer of Wrath'
 p150
 I00
-sS'Confessor Paletress'
+sS'Ragnaros, Lightlord'
 p151
 I01
-sS'Shadow Madness'
+sS"Smuggler's Run"
 p152
 I00
-sS'Onyx Bishop'
+sS'Sacred Trial'
 p153
 I00
-sS'Spawn of Shadows'
+sS'Meanstreet Marshal'
 p154
 I00
-sS"Vol'jin"
+sS'Lay on Hands'
 p155
-I01
-sS'Auchenai Soulpriest'
+I00
+sS'Stand Against Darkness'
 p156
 I00
-sS'Darkshire Alchemist'
+sS'Coghammer'
 p157
 I00
-sS'Drakonid Operative'
+sS'Vilefin Inquisitor'
 p158
 I00
-sS'Embrace the Shadow'
+sS'Tuskarr Jouster'
 p159
 I00
-sS'Inner Fire'
+sS'Getaway Kodo'
 p160
 I00
-sS'Shadow Word: Pain'
+sS'Avenge'
 p161
 I00
-sS'Anduin Wrynn'
+sS'Seal of Champions'
 p162
 I00
-sS'Greater Healing Potion'
+sS'Mysterious Challenger'
 p163
 I00
-sS'Twilight Whelp'
+sS'Wickerflame Burnbristle'
 p164
-I00
-sS'Raza the Chained'
-p165
 I01
-sS'Upgraded Repair Bot'
+sS'Shielded Minibot'
+p165
+I00
+sS'Sword of Justice'
 p166
 I00
-sS'Circle of Healing'
+sS'Aldor Peacekeeper'
 p167
 I00
-sS'Temple Enforcer'
+sS'Truesilver Champion'
 p168
 I00
-sS'Herald Volazj'
+sS'Anyfin Can Happen'
 p169
-I01
-sS'Mind Control'
+I00
+sS'Keeper of Uldaman'
 p170
 I00
-sS'Entomb'
+sS'Divine Favor'
 p171
 I00
-sS'Hooded Acolyte'
+sS'Hand of Protection'
 p172
 I00
-sS'Kabal Songstealer'
+sS'Eadric the Pure'
 p173
-I00
-sS'Holy Champion'
+I01
+sS'Repentance'
 p174
 I00
-sS'Shadow Word: Horror'
+sS'Consecration'
 p175
 I00
-sS'Twilight Darkmender'
+sS'A Light in the Darkness'
 p176
 I00
-sS'Dragonfire Potion'
+sS'Lady Liadrin'
 p177
 I00
-sS'Forbidden Shaping'
+sS'Selfless Hero'
 p178
 I00
-sS'Holy Nova'
+sS'Warhorse Trainer'
 p179
 I00
-sS'Tyrande Whisperwind'
+sS'Enter the Coliseum'
 p180
 I00
-sS'Kabal Talonpriest'
+sS'Humility'
 p181
 I00
-sS'Convert'
+sS'Grimestreet Outfitter'
 p182
 I00
-sS'Light of the Naaru'
+sS'Tirion Fordring'
 p183
-I00
-sS'Power Word: Tentacles'
+I01
+sS'Grimestreet Protector'
 p184
 I00
-sS'Mass Dispel'
+sS'Argent Protector'
 p185
 I00
-sS"Velen's Chosen"
+sS'Murloc Knight'
 p186
 I00
-sS'Purify'
+sS'Silvermoon Portal'
 p187
 I00
-sS'Shadowform'
+sS'Eye for an Eye'
 p188
 I00
-sS'Lightwell'
+sS'Quartermaster'
 p189
 I00
-sS'Museum Curator'
+sS'Equality'
 p190
 I00
-sS'Northshire Cleric'
+sS'Redemption'
 p191
 I00
-sS'Shadow Word: Death'
+sS'Grimscale Chum'
 p192
 I00
-sS'Flash Heal'
+sS'Blessing of Kings'
 p193
 I00
-sS'Mind Vision'
+sS'Cobalt Guardian'
 p194
 I00
-sS'Thoughtsteal'
+sS'Ivory Knight'
 p195
 I00
-sS'Excavated Evil'
+sS'Seal of Light'
 p196
 I00
-sS'Silence'
+sS'Forbidden Healing'
 p197
 I00
-sS'Lightbomb'
+sS"Light's Justice"
 p198
 I00
-sS'Pint-Size Potion'
+sS'Argent Lance'
 p199
 I00
-sS'Resurrect'
+sS'Grimestreet Enforcer'
 p200
 I00
-sS'Power Word: Shield'
+sS'Steward of Darkshire'
 p201
 I00
-sS'Shrinkmeister'
+sS'Scarlet Purifier'
 p202
 I00
-sS'Mana Geode'
+sS'Small-Time Recruits'
 p203
 I00
-sS'Mind Blast'
+sS'Competitive Spirit'
 p204
 I00
-sS'Cabal Shadow Priest'
+sS'Avenging Wrath'
 p205
 I00
-sS'Confuse'
+sS'Bolvar Fordragon'
 p206
-I00
-sS'Shadowbomber'
+I01
+sS'Noble Sacrifice'
 p207
 I00
-sS'Mindgames'
+sS'Blessing of Wisdom'
 p208
 I00
-sS'Shadowboxer'
+sS'Rallying Blade'
 p209
 I00
-sS'Potion of Madness'
+sS'Uther Lightbringer'
 p210
 I00
-sS'Divine Spirit'
+sS'Guardian of Kings'
 p211
 I00
-sS'Priest of the Feast'
+sS'Dragon Consort'
 p212
 I00
-sS'Holy Smite'
+sS'Blessing of Might'
 p213
 I00
-sS'Wyrmrest Agent'
+sS'Blessed Champion'
 p214
 I00
-sS'Holy Fire'
+sS'Holy Light'
 p215
 I00
-sS'Power Word: Glory'
+sS'Solemn Vigil'
 p216
 I00
-sS'Shadowfiend'
+sS'Muster for Battle'
 p217
 I00
-sS'Prophet Velen'
+sS'Divine Strength'
 p218
-I01
-ssS'Hunter'
+I00
+ssS'Priest'
 p219
 (dp220
-S'Cat Trick'
+S'Dark Cultist'
 p221
 I00
-sS'King of Beasts'
+sS'Shifting Shade'
 p222
 I00
-sS'Snake Trap'
+sS'Lightspawn'
 p223
 I00
-sS'Starving Buzzard'
+sS'Confessor Paletress'
 p224
-I00
-sS'Arcane Shot'
+I01
+sS'Shadow Madness'
 p225
 I00
-sS'King Krush'
+sS'Onyx Bishop'
 p226
-I01
-sS'Explosive Trap'
+I00
+sS'Spawn of Shadows'
 p227
 I00
-sS'Infested Wolf'
+sS"Vol'jin"
 p228
-I00
-sS'On the Hunt'
+I01
+sS'Auchenai Soulpriest'
 p229
 I00
-sS"Explorer's Hat"
+sS'Darkshire Alchemist'
 p230
 I00
-sS'Acidmaw'
+sS'Drakonid Operative'
 p231
-I01
-sS'Multi-Shot'
+I00
+sS'Embrace the Shadow'
 p232
 I00
-sS'Cloaked Huntress'
+sS'Inner Fire'
 p233
 I00
-sS'Alleria Windrunner'
+sS'Shadow Word: Pain'
 p234
 I00
-sS'Desert Camel'
+sS'Anduin Wrynn'
 p235
 I00
-sS'Explosive Shot'
+sS'Greater Healing Potion'
 p236
 I00
-sS'Rat Pack'
+sS'Twilight Whelp'
 p237
 I00
-sS'Piranha Launcher'
+sS'Raza the Chained'
 p238
-I00
-sS'Savannah Highmane'
+I01
+sS'Upgraded Repair Bot'
 p239
 I00
-sS'Tundra Rhino'
+sS'Circle of Healing'
 p240
 I00
-sS'Core Rager'
+sS'Temple Enforcer'
 p241
 I00
-sS'Animal Companion'
+sS'Herald Volazj'
 p242
-I00
-sS'Stablemaster'
+I01
+sS'Mind Control'
 p243
 I00
-sS'Ram Wrangler'
+sS'Entomb'
 p244
 I00
-sS'Powershot'
+sS'Hooded Acolyte'
 p245
 I00
-sS"Smuggler's Crate"
+sS'Kabal Songstealer'
 p246
 I00
-sS'Forlorn Stalker'
+sS'Holy Champion'
 p247
 I00
-sS'Kill Command'
+sS'Shadow Word: Horror'
 p248
 I00
-sS'Misdirection'
+sS'Twilight Darkmender'
 p249
 I00
-sS'Ball of Spiders'
+sS'Dragonfire Potion'
 p250
 I00
-sS'Giant Sand Worm'
+sS'Forbidden Shaping'
 p251
 I00
-sS'Shaky Zipgunner'
+sS'Holy Nova'
 p252
 I00
-sS'Metaltooth Leaper'
+sS'Tyrande Whisperwind'
 p253
 I00
-sS'Snipe'
+sS'Kabal Talonpriest'
 p254
 I00
-sS'Feign Death'
+sS'Convert'
 p255
 I00
-sS'Houndmaster'
+sS'Light of the Naaru'
 p256
 I00
-sS'Brave Archer'
+sS'Power Word: Tentacles'
 p257
 I00
-sS'Bear Trap'
+sS'Mass Dispel'
 p258
 I00
-sS'Tracking'
+sS"Velen's Chosen"
 p259
 I00
-sS'Rexxar'
+sS'Purify'
 p260
 I00
-sS"King's Elekk"
+sS'Shadowform'
 p261
 I00
-sS'Knuckles'
+sS'Lightwell'
 p262
-I01
-sS"Gladiator's Longbow"
+I00
+sS'Museum Curator'
 p263
 I00
-sS'Flare'
+sS'Northshire Cleric'
 p264
 I00
-sS'Kindly Grandmother'
+sS'Shadow Word: Death'
 p265
 I00
-sS'Timber Wolf'
+sS'Flash Heal'
 p266
 I00
-sS'Steamwheedle Sniper'
+sS'Mind Vision'
 p267
 I00
-sS'Trogg Beastrager'
+sS'Thoughtsteal'
 p268
 I00
-sS'Fiery Bat'
+sS'Excavated Evil'
 p269
 I00
-sS'Dart Trap'
+sS'Silence'
 p270
 I00
-sS'Princess Huhuran'
+sS'Lightbomb'
 p271
-I01
-sS'Dispatch Kodo'
+I00
+sS'Pint-Size Potion'
 p272
 I00
-sS"Hunter's Mark"
+sS'Resurrect'
 p273
 I00
-sS'Carrion Grub'
+sS'Power Word: Shield'
 p274
 I00
-sS'Unleash the Hounds'
+sS'Shrinkmeister'
 p275
 I00
-sS'Lock and Load'
+sS'Mana Geode'
 p276
 I00
-sS'Deadly Shot'
+sS'Mind Blast'
 p277
 I00
-sS'Scavenging Hyena'
+sS'Cabal Shadow Priest'
 p278
 I00
-sS"Gahz'rilla"
+sS'Confuse'
 p279
-I01
-sS'Freezing Trap'
+I00
+sS'Shadowbomber'
 p280
 I00
-sS'Alleycat'
+sS'Mindgames'
 p281
 I00
-sS'Glaivezooka'
+sS'Shadowboxer'
 p282
 I00
-sS'Quick Shot'
+sS'Potion of Madness'
 p283
 I00
-sS'Hidden Cache'
+sS'Divine Spirit'
 p284
 I00
-sS'Webspinner'
+sS'Priest of the Feast'
 p285
 I00
-sS'Eaglehorn Bow'
+sS'Holy Smite'
 p286
 I00
-sS'Call Pet'
+sS'Wyrmrest Agent'
 p287
 I00
-sS'Call of the Wild'
+sS'Holy Fire'
 p288
 I00
-sS'Infest'
+sS'Power Word: Glory'
 p289
 I00
-sS'Dreadscale'
+sS'Shadowfiend'
 p290
-I01
-sS'Bestial Wrath'
+I00
+sS'Prophet Velen'
 p291
-I00
-sS'Cobra Shot'
+I01
+ssS'Hunter'
 p292
+(dp293
+S'Cat Trick'
+p294
 I00
-ssS'Druid'
-p293
-(dp294
-S'Dark Arakkoa'
+sS'King of Beasts'
 p295
 I00
-sS'Grove Tender'
+sS'Snake Trap'
 p296
 I00
-sS'Power of the Wild'
+sS'Starving Buzzard'
 p297
 I00
-sS'Wrath'
+sS'Arcane Shot'
 p298
 I00
-sS'Malfurion Stormrage'
+sS'King Krush'
 p299
-I00
-sS'Dark Wispers'
+I01
+sS'Explosive Trap'
 p300
 I00
-sS'Bite'
+sS'Infested Wolf'
 p301
 I00
-sS'Swipe'
+sS'On the Hunt'
 p302
 I00
-sS'Living Roots'
+sS"Explorer's Hat"
 p303
 I00
-sS'Savage Roar'
+sS'Acidmaw'
 p304
-I00
-sS'Druid of the Fang'
+I01
+sS'Multi-Shot'
 p305
 I00
-sS'Recycle'
+sS'Cloaked Huntress'
 p306
 I00
-sS'Klaxxi Amber-Weaver'
+sS'Alleria Windrunner'
 p307
 I00
-sS'Kun the Forgotten King'
+sS'Desert Camel'
 p308
-I01
-sS'Ironbark Protector'
+I00
+sS'Explosive Shot'
 p309
 I00
-sS'Ancient of Lore'
+sS'Rat Pack'
 p310
 I00
-sS'Raven Idol'
+sS'Piranha Launcher'
 p311
 I00
-sS'Jade Blossom'
+sS'Savannah Highmane'
 p312
 I00
-sS'Pilfered Power'
+sS'Tundra Rhino'
 p313
 I00
-sS'Jade Idol'
+sS'Core Rager'
 p314
 I00
-sS'Nourish'
+sS'Animal Companion'
 p315
 I00
-sS'Forbidden Ancient'
+sS'Stablemaster'
 p316
 I00
-sS'Wisps of the Old Gods'
+sS'Ram Wrangler'
 p317
 I00
-sS'Mark of Nature'
+sS'Powershot'
 p318
 I00
-sS"Mark of Y'Shaarj"
+sS"Smuggler's Crate"
 p319
 I00
-sS'Mulch'
+sS'Forlorn Stalker'
 p320
 I00
-sS'Innervate'
+sS'Kill Command'
 p321
 I00
-sS'Mech-Bear-Cat'
+sS'Misdirection'
 p322
 I00
-sS'Enchanted Raven'
+sS'Ball of Spiders'
 p323
 I00
-sS'Astral Communion'
+sS'Giant Sand Worm'
 p324
 I00
-sS'Wild Growth'
+sS'Shaky Zipgunner'
 p325
 I00
-sS'Darnassus Aspirant'
+sS'Metaltooth Leaper'
 p326
 I00
-sS'Addled Grizzly'
+sS'Snipe'
 p327
 I00
-sS'Menagerie Warden'
+sS'Feign Death'
 p328
 I00
-sS'Keeper of the Grove'
+sS'Houndmaster'
 p329
 I00
-sS'Moonfire'
+sS'Brave Archer'
 p330
 I00
-sS'Moonglade Portal'
+sS'Bear Trap'
 p331
 I00
-sS'Poison Seeds'
+sS'Tracking'
 p332
 I00
-sS'Cenarius'
+sS'Rexxar'
 p333
-I01
-sS'Savagery'
+I00
+sS"King's Elekk"
 p334
 I00
-sS'Jungle Moonkin'
+sS'Knuckles'
 p335
-I00
-sS'Anodized Robo Cub'
+I01
+sS"Gladiator's Longbow"
 p336
 I00
-sS'Soul of the Forest'
+sS'Flare'
 p337
 I00
-sS'Ancient of War'
+sS'Kindly Grandmother'
 p338
 I00
-sS'Force of Nature'
+sS'Timber Wolf'
 p339
 I00
-sS'Aviana'
+sS'Steamwheedle Sniper'
 p340
-I01
-sS'Tree of Life'
+I00
+sS'Trogg Beastrager'
 p341
 I00
-sS'Claw'
+sS'Fiery Bat'
 p342
 I00
-sS'Healing Touch'
+sS'Dart Trap'
 p343
 I00
-sS'Knight of the Wild'
+sS'Princess Huhuran'
 p344
-I00
-sS'Jade Behemoth'
+I01
+sS'Dispatch Kodo'
 p345
 I00
-sS'Savage Combatant'
+sS"Hunter's Mark"
 p346
 I00
-sS'Naturalize'
+sS'Carrion Grub'
 p347
 I00
-sS'Starfall'
+sS'Unleash the Hounds'
 p348
 I00
-sS'Starfire'
+sS'Lock and Load'
 p349
 I00
-sS'Druid of the Flame'
+sS'Deadly Shot'
 p350
 I00
-sS'Feral Rage'
+sS'Scavenging Hyena'
 p351
 I00
-sS'Druid of the Claw'
+sS"Gahz'rilla"
 p352
-I00
-sS'Mark of the Lotus'
+I01
+sS'Freezing Trap'
 p353
 I00
-sS'Lunar Visions'
+sS'Alleycat'
 p354
 I00
-sS'Mark of the Wild'
+sS'Glaivezooka'
 p355
 I00
-sS'Volcanic Lumberer'
+sS'Quick Shot'
 p356
 I00
-sS'Mounted Raptor'
+sS'Hidden Cache'
 p357
 I00
-sS'Druid of the Saber'
+sS'Webspinner'
 p358
 I00
-sS'Fandral Staghelm'
+sS'Eaglehorn Bow'
 p359
-I01
-sS'Wildwalker'
+I00
+sS'Call Pet'
 p360
 I00
-sS'Malorne'
+sS'Call of the Wild'
 p361
-I01
-sS'Celestial Dreamer'
+I00
+sS'Infest'
 p362
 I00
-sS'Mire Keeper'
+sS'Dreadscale'
 p363
-I00
-sS'Virmen Sensei'
+I01
+sS'Bestial Wrath'
 p364
 I00
-ssS'Neutral'
+sS'Cobra Shot'
 p365
-(dp366
-S'Doomcaller'
-p367
 I00
-sS'Zoobot'
+ssS'Druid'
+p366
+(dp367
+S'Dark Arakkoa'
 p368
 I00
-sS'Salty Dog'
+sS'Grove Tender'
 p369
 I00
-sS"Captain's Parrot"
+sS'Power of the Wild'
 p370
 I00
-sS'Blood Knight'
+sS'Wrath'
 p371
 I00
-sS'Amani Berserker'
+sS'Malfurion Stormrage'
 p372
 I00
-sS'Dragonling Mechanic'
+sS'Dark Wispers'
 p373
 I00
-sS"Light's Champion"
+sS'Bite'
 p374
 I00
-sS'Stormpike Commando'
+sS'Swipe'
 p375
 I00
-sS'Moat Lurker'
+sS'Living Roots'
 p376
 I00
-sS'Sergeant Sally'
+sS'Savage Roar'
 p377
-I01
-sS'The Curator'
+I00
+sS'Druid of the Fang'
 p378
-I01
-sS'Shattered Sun Cleric'
+I00
+sS'Recycle'
 p379
 I00
-sS'Undertaker'
+sS'Klaxxi Amber-Weaver'
 p380
 I00
-sS'Scaled Nightmare'
+sS'Kun the Forgotten King'
 p381
-I00
-sS'Volcanic Drake'
+I01
+sS'Ironbark Protector'
 p382
 I00
-sS'Toshley'
+sS'Ancient of Lore'
 p383
-I01
-sS'Jungle Panther'
+I00
+sS'Raven Idol'
 p384
 I00
-sS'Faceless Manipulator'
+sS'Jade Blossom'
 p385
 I00
-sS'Gnomish Experimenter'
+sS'Pilfered Power'
 p386
 I00
-sS'Booty Bay Bodyguard'
+sS'Jade Idol'
 p387
 I00
-sS'Gormok the Impaler'
+sS'Nourish'
 p388
-I01
-sS'Violet Teacher'
+I00
+sS'Forbidden Ancient'
 p389
 I00
-sS'Lightwarden'
+sS'Wisps of the Old Gods'
 p390
 I00
-sS'Mini-Mage'
+sS'Mark of Nature'
 p391
 I00
-sS'Tournament Medic'
+sS"Mark of Y'Shaarj"
 p392
 I00
-sS'Windfury Harpy'
+sS'Mulch'
 p393
 I00
-sS'Book Wyrm'
+sS'Innervate'
 p394
 I00
-sS'Arcane Anomaly'
+sS'Mech-Bear-Cat'
 p395
 I00
-sS'Dark Iron Dwarf'
+sS'Enchanted Raven'
 p396
 I00
-sS'Anubisath Sentinel'
+sS'Astral Communion'
 p397
 I00
-sS'Shade of Naxxramas'
+sS'Wild Growth'
 p398
 I00
-sS"Nerub'ar Weblord"
+sS'Darnassus Aspirant'
 p399
 I00
-sS'Clockwork Knight'
+sS'Addled Grizzly'
 p400
 I00
-sS'Stoneskin Gargoyle'
+sS'Menagerie Warden'
 p401
 I00
-sS'Hogger, Doom of Elwynn'
+sS'Keeper of the Grove'
 p402
-I01
-sS'Spectral Knight'
+I00
+sS'Moonfire'
 p403
 I00
-sS'Rend Blackhand'
+sS'Moonglade Portal'
 p404
-I01
-sS'Mukla, Tyrant of the Vale'
-p405
-I01
-sS'Novice Engineer'
-p406
 I00
-sS'Illuminator'
+sS'Poison Seeds'
+p405
+I00
+sS'Cenarius'
+p406
+I01
+sS'Savagery'
 p407
 I00
-sS'Grook Fu Master'
+sS'Jungle Moonkin'
 p408
 I00
-sS'Bloodsail Corsair'
+sS'Anodized Robo Cub'
 p409
 I00
-sS'Madder Bomber'
+sS'Soul of the Forest'
 p410
 I00
-sS'Defender of Argus'
+sS'Ancient of War'
 p411
 I00
-sS'Arcane Giant'
+sS'Force of Nature'
 p412
 I00
-sS'Foe Reaper 4000'
+sS'Aviana'
 p413
 I01
-sS'Master Swordsmith'
+sS'Tree of Life'
 p414
 I00
-sS'Worgen Infiltrator'
+sS'Claw'
 p415
 I00
-sS'Spider Tank'
+sS'Healing Touch'
 p416
 I00
-sS'Aya Blackpaw'
+sS'Knight of the Wild'
 p417
-I01
-sS'Grimestreet Smuggler'
+I00
+sS'Jade Behemoth'
 p418
 I00
-sS'Majordomo Executus'
+sS'Savage Combatant'
 p419
-I01
-sS"Ship's Cannon"
+I00
+sS'Naturalize'
 p420
 I00
-sS'Baron Geddon'
+sS'Starfall'
 p421
-I01
-sS'Chillwind Yeti'
+I00
+sS'Starfire'
 p422
 I00
-sS'Nozdormu'
+sS'Druid of the Flame'
 p423
-I01
-sS'Eerie Statue'
+I00
+sS'Feral Rage'
 p424
 I00
-sS'Mistress of Mixtures'
+sS'Druid of the Claw'
 p425
 I00
-sS'Summoning Stone'
+sS'Mark of the Lotus'
 p426
 I00
-sS'Crowd Favorite'
+sS'Lunar Visions'
 p427
 I00
-sS'Ancient Mage'
+sS'Mark of the Wild'
 p428
 I00
-sS"Mogor's Champion"
+sS'Volcanic Lumberer'
 p429
 I00
-sS"C'Thun"
+sS'Mounted Raptor'
 p430
-I01
-sS'Goblin Sapper'
+I00
+sS'Druid of the Saber'
 p431
 I00
-sS'Piloted Sky Golem'
+sS'Fandral Staghelm'
 p432
-I00
-sS"Skycap'n Kragg"
-p433
 I01
-sS'Bolf Ramshield'
+sS'Wildwalker'
+p433
+I00
+sS'Malorne'
 p434
 I01
-sS'Finja, the Flying Star'
+sS'Celestial Dreamer'
 p435
-I01
-sS'Cult Master'
+I00
+sS'Mire Keeper'
 p436
 I00
-sS'Big Game Hunter'
+sS'Virmen Sensei'
 p437
 I00
-sS'Silent Knight'
+ssS'Neutral'
 p438
-I00
-sS'Gelbin Mekkatorque'
-p439
-I01
-sS'Mad Bomber'
+(dp439
+S'Doomcaller'
 p440
 I00
-sS'Twilight Elder'
+sS'Zoobot'
 p441
 I00
-sS'Icehowl'
+sS'Salty Dog'
 p442
-I01
-sS'Murloc Tidehunter'
+I00
+sS"Captain's Parrot"
 p443
 I00
-sS'Doomsayer'
+sS'Blood Knight'
 p444
 I00
-sS'Hired Gun'
+sS'Amani Berserker'
 p445
 I00
-sS'Street Trickster'
+sS'Dragonling Mechanic'
 p446
 I00
-sS'Echoing Ooze'
+sS"Light's Champion"
 p447
 I00
-sS'Maexxna'
+sS'Stormpike Commando'
 p448
-I01
-sS'Onyxia'
+I00
+sS'Moat Lurker'
 p449
-I01
-sS'Acolyte of Pain'
+I00
+sS'Sergeant Sally'
 p450
-I00
-sS'Hozen Healer'
+I01
+sS'The Curator'
 p451
-I00
-sS'Elven Archer'
+I01
+sS'Shattered Sun Cleric'
 p452
 I00
-sS'Troggzor the Earthinator'
+sS'Undertaker'
 p453
-I01
-sS'Midnight Drake'
+I00
+sS'Scaled Nightmare'
 p454
 I00
-sS'Alarm-o-Bot'
+sS'Volcanic Drake'
 p455
 I00
-sS'Archmage'
+sS'Toshley'
 p456
-I00
-sS'Silver Hand Knight'
+I01
+sS'Jungle Panther'
 p457
 I00
-sS'Goldshire Footman'
+sS'Faceless Manipulator'
 p458
 I00
-sS'Patches the Pirate'
+sS'Gnomish Experimenter'
 p459
-I01
-sS'Daring Reporter'
+I00
+sS'Booty Bay Bodyguard'
 p460
 I00
-sS'Mayor Noggenfogger'
+sS'Gormok the Impaler'
 p461
 I01
-sS'Argent Horserider'
+sS'Violet Teacher'
 p462
 I00
-sS'Stalagg'
+sS'Lightwarden'
 p463
-I01
-sS'Chillmaw'
+I00
+sS'Mini-Mage'
 p464
-I01
-sS'Murloc Tinyfin'
+I00
+sS'Tournament Medic'
 p465
 I00
-sS'Cogmaster'
+sS'Windfury Harpy'
 p466
 I00
-sS'Backstreet Leper'
+sS'Book Wyrm'
 p467
 I00
-sS'Saboteur'
+sS'Arcane Anomaly'
 p468
 I00
-sS'Reno Jackson'
+sS'Dark Iron Dwarf'
 p469
-I01
-sS'Dalaran Mage'
+I00
+sS'Anubisath Sentinel'
 p470
 I00
-sS'Grim Patron'
+sS'Shade of Naxxramas'
 p471
 I00
-sS'Tanaris Hogchopper'
+sS"Nerub'ar Weblord"
 p472
 I00
-sS'Ogre Brute'
+sS'Clockwork Knight'
 p473
 I00
-sS'Hogger'
+sS'Stoneskin Gargoyle'
 p474
-I01
-sS'Haunted Creeper'
-p475
 I00
-sS'Sludge Belcher'
+sS'Hogger, Doom of Elwynn'
+p475
+I01
+sS'Spectral Knight'
 p476
 I00
-sS'Lotus Agents'
+sS'Rend Blackhand'
 p477
-I00
-sS'Corrupted Seer'
+I01
+sS'Mukla, Tyrant of the Vale'
 p478
-I00
-sS'Annoy-o-Tron'
+I01
+sS'Novice Engineer'
 p479
 I00
-sS'Acidic Swamp Ooze'
+sS'Illuminator'
 p480
 I00
-sS'Jeeves'
+sS'Grook Fu Master'
 p481
 I00
-sS'Doppelgangster'
+sS'Bloodsail Corsair'
 p482
 I00
-sS'Stonesplinter Trogg'
+sS'Madder Bomber'
 p483
 I00
-sS'Barnes'
+sS'Defender of Argus'
 p484
-I01
-sS'Recruiter'
+I00
+sS'Arcane Giant'
 p485
 I00
-sS'Netherspite Historian'
+sS'Foe Reaper 4000'
 p486
-I00
-sS'Coliseum Manager'
+I01
+sS'Master Swordsmith'
 p487
 I00
-sS'Duskboar'
+sS'Worgen Infiltrator'
 p488
 I00
-sS'Puddlestomper'
+sS'Spider Tank'
 p489
 I00
-sS'Arch-Thief Rafaam'
+sS'Aya Blackpaw'
 p490
 I01
-sS'Dirty Rat'
+sS'Grimestreet Smuggler'
 p491
 I00
-sS'Aberrant Berserker'
+sS'Majordomo Executus'
 p492
-I00
-sS'Darkspeaker'
+I01
+sS"Ship's Cannon"
 p493
 I00
-sS'Eater of Secrets'
+sS'Baron Geddon'
 p494
-I00
-sS'Moroes'
-p495
 I01
-sS'Azure Drake'
-p496
+sS'Chillwind Yeti'
+p495
 I00
-sS'Friendly Bartender'
+sS'Nozdormu'
+p496
+I01
+sS'Eerie Statue'
 p497
 I00
-sS'Baron Rivendare'
+sS'Mistress of Mixtures'
 p498
-I01
-sS'Sir Finley Mrrgglton'
+I00
+sS'Summoning Stone'
 p499
-I01
-sS'Twisted Worgen'
+I00
+sS'Crowd Favorite'
 p500
 I00
-sS'Illidan Stormrage'
+sS'Ancient Mage'
 p501
-I01
-sS'Naga Sea Witch'
+I00
+sS"Mogor's Champion"
 p502
 I00
-sS'Cairne Bloodhoof'
+sS"C'Thun"
 p503
 I01
-sS'War Golem'
+sS'Goblin Sapper'
 p504
 I00
-sS'Darkscale Healer'
+sS'Piloted Sky Golem'
 p505
 I00
-sS'Gnomeregan Infantry'
+sS"Skycap'n Kragg"
 p506
-I00
-sS'Faerie Dragon'
+I01
+sS'Bolf Ramshield'
 p507
-I00
-sS'Abomination'
+I01
+sS'Finja, the Flying Star'
 p508
-I00
-sS'Ironforge Rifleman'
+I01
+sS'Cult Master'
 p509
 I00
-sS'Stampeding Kodo'
+sS'Big Game Hunter'
 p510
 I00
-sS'Kooky Chemist'
+sS'Silent Knight'
 p511
 I00
-sS'Pit Fighter'
+sS'Gelbin Mekkatorque'
 p512
-I00
-sS'Bloodmage Thalnos'
-p513
 I01
-sS'Small-Time Buccaneer'
+sS'Mad Bomber'
+p513
+I00
+sS'Twilight Elder'
 p514
 I00
-sS'Dread Corsair'
+sS'Icehowl'
 p515
-I00
-sS'Ironfur Grizzly'
+I01
+sS'Murloc Tidehunter'
 p516
 I00
-sS'Bomb Lobber'
+sS'Doomsayer'
 p517
 I00
-sS'Zealous Initiate'
+sS'Hired Gun'
 p518
 I00
-sS'Gazlowe'
+sS'Street Trickster'
 p519
-I01
-sS'Kezan Mystic'
+I00
+sS'Echoing Ooze'
 p520
 I00
-sS'Lance Carrier'
+sS'Maexxna'
 p521
-I00
-sS'Skeram Cultist'
-p522
-I00
-sS'Nefarian'
-p523
 I01
-sS'Toxic Sewer Ooze'
+sS'Onyxia'
+p522
+I01
+sS'Acolyte of Pain'
+p523
+I00
+sS'Hozen Healer'
 p524
 I00
-sS'Blackwing Corruptor'
+sS'Elven Archer'
 p525
 I00
-sS'Venture Co. Mercenary'
+sS'Troggzor the Earthinator'
 p526
-I00
-sS'Boulderfist Ogre'
+I01
+sS'Midnight Drake'
 p527
 I00
-sS'Burly Rockjaw Trogg'
+sS'Alarm-o-Bot'
 p528
 I00
-sS'Ice Rager'
+sS'Archmage'
 p529
 I00
-sS'Grimestreet Informant'
+sS'Silver Hand Knight'
 p530
 I00
-sS'Bilefin Tidehunter'
+sS'Goldshire Footman'
 p531
 I00
-sS'Kabal Courier'
+sS'Patches the Pirate'
 p532
-I00
-sS'Harvest Golem'
+I01
+sS'Daring Reporter'
 p533
 I00
-sS'Blackwater Pirate'
+sS'Mayor Noggenfogger'
 p534
-I00
-sS'Defias Cleaner'
+I01
+sS'Argent Horserider'
 p535
 I00
-sS'Cult Apothecary'
+sS'Stalagg'
 p536
-I00
-sS'Imp Master'
+I01
+sS'Chillmaw'
 p537
-I00
-sS'Captured Jormungar'
+I01
+sS'Murloc Tinyfin'
 p538
 I00
-sS'Emperor Cobra'
+sS'Cogmaster'
 p539
 I00
-sS'Gadgetzan Auctioneer'
+sS'Backstreet Leper'
 p540
 I00
-sS'Ragnaros the Firelord'
+sS'Saboteur'
 p541
-I01
-sS'Gadgetzan Socialite'
-p542
 I00
-sS'Sunwalker'
+sS'Reno Jackson'
+p542
+I01
+sS'Dalaran Mage'
 p543
 I00
-sS'The Skeleton Knight'
+sS'Grim Patron'
 p544
-I01
-sS'Demolisher'
+I00
+sS'Tanaris Hogchopper'
 p545
 I00
-sS'Hobgoblin'
+sS'Ogre Brute'
 p546
 I00
-sS'Argent Commander'
+sS'Hogger'
 p547
-I00
-sS'Backroom Bouncer'
+I01
+sS'Haunted Creeper'
 p548
 I00
-sS'Priestess of Elune'
+sS'Sludge Belcher'
 p549
 I00
-sS'Mad Scientist'
+sS'Lotus Agents'
 p550
 I00
-sS'Voodoo Doctor'
+sS'Corrupted Seer'
 p551
 I00
-sS'Flame Juggler'
+sS'Annoy-o-Tron'
 p552
 I00
-sS'Pantry Spider'
+sS'Acidic Swamp Ooze'
 p553
 I00
-sS'Tinkmaster Overspark'
+sS'Jeeves'
 p554
-I01
-sS'Bloodsail Raider'
+I00
+sS'Doppelgangster'
 p555
 I00
-sS'Stormwind Knight'
+sS'Stonesplinter Trogg'
 p556
 I00
-sS'Arcanosmith'
+sS'Barnes'
 p557
-I00
-sS'Auctionmaster Beardo'
+I01
+sS'Recruiter'
 p558
-I01
-sS'Nexus-Champion Saraad'
+I00
+sS'Netherspite Historian'
 p559
-I01
-sS'Bloodfen Raptor'
+I00
+sS'Coliseum Manager'
 p560
 I00
-sS'Frostwolf Grunt'
+sS'Duskboar'
 p561
 I00
-sS'Kazakus'
+sS'Puddlestomper'
 p562
-I01
-sS'Gnomish Inventor'
-p563
 I00
-sS'Blood of The Ancient One'
+sS'Arch-Thief Rafaam'
+p563
+I01
+sS'Dirty Rat'
 p564
 I00
-sS'Refreshment Vendor'
+sS'Aberrant Berserker'
 p565
 I00
-sS'Raid Leader'
+sS'Darkspeaker'
 p566
 I00
-sS'Argent Watchman'
+sS'Eater of Secrets'
 p567
 I00
-sS'Beckoner of Evil'
+sS'Moroes'
 p568
-I00
-sS'Ancient Watcher'
+I01
+sS'Azure Drake'
 p569
 I00
-sS'Evil Heckler'
+sS'Friendly Bartender'
 p570
 I00
-sS'Ironbeak Owl'
+sS'Baron Rivendare'
 p571
-I00
-sS'Kodorider'
+I01
+sS'Sir Finley Mrrgglton'
 p572
-I00
-sS'Sea Giant'
+I01
+sS'Twisted Worgen'
 p573
 I00
-sS'Twilight Guardian'
+sS'Illidan Stormrage'
 p574
-I00
-sS'Nat Pagle'
-p575
 I01
-sS'Maiden of the Lake'
-p576
+sS'Naga Sea Witch'
+p575
 I00
-sS'Fel Orc Soulfiend'
+sS'Cairne Bloodhoof'
+p576
+I01
+sS'War Golem'
 p577
 I00
-sS'Magma Rager'
+sS'Darkscale Healer'
 p578
 I00
-sS'Shieldbearer'
+sS'Gnomeregan Infantry'
 p579
 I00
-sS'Leeroy Jenkins'
+sS'Faerie Dragon'
 p580
-I01
-sS"Lil' Exorcist"
+I00
+sS'Abomination'
 p581
 I00
-sS'Wolfrider'
+sS'Ironforge Rifleman'
 p582
 I00
-sS'Blingtron 3000'
+sS'Stampeding Kodo'
 p583
-I01
-sS'Murloc Tidecaller'
+I00
+sS'Kooky Chemist'
 p584
 I00
-sS'Earthen Ring Farseer'
+sS'Pit Fighter'
 p585
 I00
-sS'Mogor the Ogre'
+sS'Bloodmage Thalnos'
 p586
 I01
-sS"Sneed's Old Shredder"
+sS'Small-Time Buccaneer'
 p587
-I01
-sS'Gorillabot A-3'
+I00
+sS'Dread Corsair'
 p588
 I00
-sS'Antique Healbot'
+sS'Ironfur Grizzly'
 p589
 I00
-sS'Clockwork Gnome'
+sS'Bomb Lobber'
 p590
 I00
-sS'Faceless Shambler'
+sS'Zealous Initiate'
 p591
 I00
-sS'Master of Ceremonies'
+sS'Gazlowe'
 p592
-I00
-sS'Wisp'
+I01
+sS'Kezan Mystic'
 p593
 I00
-sS'King Mukla'
+sS'Lance Carrier'
 p594
-I01
-sS'Gilblin Stalker'
+I00
+sS'Skeram Cultist'
 p595
 I00
-sS'Silvermoon Guardian'
+sS'Nefarian'
 p596
-I00
-sS'Tauren Warrior'
+I01
+sS'Toxic Sewer Ooze'
 p597
 I00
-sS'Stonetusk Boar'
+sS'Blackwing Corruptor'
 p598
 I00
-sS'Angry Chicken'
+sS'Venture Co. Mercenary'
 p599
 I00
-sS"Y'Shaarj, Rage Unbound"
+sS'Boulderfist Ogre'
 p600
-I01
-sS'Sideshow Spelleater'
+I00
+sS'Burly Rockjaw Trogg'
 p601
 I00
-sS'Deathlord'
+sS'Ice Rager'
 p602
 I00
-sS"Twin Emperor Vek'lor"
+sS'Grimestreet Informant'
 p603
-I01
-sS'Fel Reaver'
+I00
+sS'Bilefin Tidehunter'
 p604
 I00
-sS'Crazed Worshipper'
+sS'Kabal Courier'
 p605
 I00
-sS'Bomb Squad'
+sS'Harvest Golem'
 p606
 I00
-sS'Prince Malchezaar'
+sS'Blackwater Pirate'
 p607
-I01
-sS'Menagerie Magician'
+I00
+sS'Defias Cleaner'
 p608
 I00
-sS'Thrallmar Farseer'
+sS'Cult Apothecary'
 p609
 I00
-sS'Harrison Jones'
+sS'Imp Master'
 p610
-I01
-sS'Silithid Swarmer'
+I00
+sS'Captured Jormungar'
 p611
 I00
-sS'Sylvanas Windrunner'
+sS'Emperor Cobra'
 p612
-I01
-sS'Weasel Tunneler'
+I00
+sS'Gadgetzan Auctioneer'
 p613
 I00
-sS'Violet Illusionist'
+sS'Ragnaros the Firelord'
 p614
-I00
-sS'Malygos'
-p615
 I01
-sS'Arcane Golem'
+sS'Gadgetzan Socialite'
+p615
+I00
+sS'Sunwalker'
 p616
 I00
-sS'Shifter Zerus'
+sS'The Skeleton Knight'
 p617
 I01
-sS"Disciple of C'Thun"
+sS'Demolisher'
 p618
 I00
-sS'Madam Goya'
+sS'Hobgoblin'
 p619
-I01
-sS"N'Zoth, the Corruptor"
+I00
+sS'Argent Commander'
 p620
-I01
-sS'Fight Promoter'
+I00
+sS'Backroom Bouncer'
 p621
 I00
-sS'Tournament Attendee'
+sS'Priestess of Elune'
 p622
 I00
-sS'Captain Greenskin'
+sS'Mad Scientist'
 p623
-I01
-sS'Stranglethorn Tiger'
+I00
+sS'Voodoo Doctor'
 p624
 I00
-sS'Lorewalker Cho'
+sS'Flame Juggler'
 p625
-I01
-sS'Murloc Raider'
+I00
+sS'Pantry Spider'
 p626
 I00
-sS'Blubber Baron'
+sS'Tinkmaster Overspark'
 p627
-I00
-sS'Lord of the Arena'
+I01
+sS'Bloodsail Raider'
 p628
 I00
-sS'Nat, the Darkfisher'
+sS'Stormwind Knight'
 p629
-I01
-sS'Kvaldir Raider'
+I00
+sS'Arcanosmith'
 p630
 I00
-sS'Coldlight Seer'
+sS'Auctionmaster Beardo'
 p631
-I00
-sS'North Sea Kraken'
-p632
-I00
-sS'Deathwing, Dragonlord'
-p633
 I01
-sS'Lost Tallstrider'
+sS'Nexus-Champion Saraad'
+p632
+I01
+sS'Bloodfen Raptor'
+p633
+I00
+sS'Frostwolf Grunt'
 p634
 I00
-sS'Grotesque Dragonhawk'
+sS'Kazakus'
 p635
-I00
-sS'Zombie Chow'
+I01
+sS'Gnomish Inventor'
 p636
 I00
-sS'Coldlight Oracle'
+sS'Blood of The Ancient One'
 p637
 I00
-sS'Dragonkin Sorcerer'
+sS'Refreshment Vendor'
 p638
 I00
-sS'Mana Wraith'
+sS'Raid Leader'
 p639
 I00
-sS'Micro Machine'
+sS'Argent Watchman'
 p640
 I00
-sS'Garrison Commander'
+sS'Beckoner of Evil'
 p641
 I00
-sS'Silver Hand Regent'
+sS'Ancient Watcher'
 p642
 I00
-sS'Corrupted Healbot'
+sS'Evil Heckler'
 p643
 I00
-sS'Dire Wolf Alpha'
+sS'Ironbeak Owl'
 p644
 I00
-sS"Don Han'Cho"
+sS'Kodorider'
 p645
-I01
-sS'Dragonhawk Rider'
+I00
+sS'Sea Giant'
 p646
 I00
-sS'Youthful Brewmaster'
+sS'Twilight Guardian'
 p647
 I00
-sS'Bluegill Warrior'
+sS'Nat Pagle'
 p648
-I00
-sS'Ancient Brewmaster'
+I01
+sS'Maiden of the Lake'
 p649
 I00
-sS'Fencing Coach'
+sS'Fel Orc Soulfiend'
 p650
 I00
-sS'Grand Crusader'
+sS'Magma Rager'
 p651
 I00
-sS'Force-Tank MAX'
+sS'Shieldbearer'
 p652
 I00
-sS'Argent Squire'
+sS'Leeroy Jenkins'
 p653
-I00
-sS'Mekgineer Thermaplugg'
-p654
 I01
-sS'Recombobulator'
+sS"Lil' Exorcist"
+p654
+I00
+sS'Wolfrider'
 p655
 I00
-sS'Nerubian Egg'
+sS'Blingtron 3000'
 p656
-I00
-sS'Jade Spirit'
+I01
+sS'Murloc Tidecaller'
 p657
 I00
-sS'Knife Juggler'
+sS'Earthen Ring Farseer'
 p658
 I00
-sS'Loatheb'
+sS'Mogor the Ogre'
 p659
 I01
-sS'Wobbling Runts'
+sS"Sneed's Old Shredder"
 p660
-I00
-sS"Mukla's Champion"
+I01
+sS'Gorillabot A-3'
 p661
 I00
-sS'Ysera'
+sS'Antique Healbot'
 p662
-I01
-sS'Armored Warhorse'
+I00
+sS'Clockwork Gnome'
 p663
 I00
-sS'Piloted Shredder'
+sS'Faceless Shambler'
 p664
 I00
-sS'Djinni of Zephyrs'
+sS'Master of Ceremonies'
 p665
 I00
-sS'Twilight Summoner'
+sS'Wisp'
 p666
 I00
-sS'Gruul'
+sS'King Mukla'
 p667
 I01
-sS'Oasis Snapjaw'
+sS'Gilblin Stalker'
 p668
 I00
-sS'The Boogeymonster'
+sS'Silvermoon Guardian'
 p669
-I01
-sS'Streetwise Investigator'
+I00
+sS'Tauren Warrior'
 p670
 I00
-sS'Abusive Sergeant'
+sS'Stonetusk Boar'
 p671
 I00
-sS'Frost Elemental'
+sS'Angry Chicken'
 p672
 I00
-sS'Red Mana Wyrm'
+sS"Y'Shaarj, Rage Unbound"
 p673
-I00
-sS'Dr. Boom'
-p674
 I01
-sS'Eldritch Horror'
+sS'Sideshow Spelleater'
+p674
+I00
+sS'Deathlord'
 p675
 I00
-sS'Enhance-o Mechano'
+sS"Twin Emperor Vek'lor"
 p676
-I00
-sS'Ancient Shade'
+I01
+sS'Fel Reaver'
 p677
 I00
-sS'Silverback Patriarch'
+sS'Crazed Worshipper'
 p678
 I00
-sS'Genzo, the Shark'
+sS'Bomb Squad'
 p679
-I01
-sS'Squirming Tentacle'
-p680
 I00
-sS'Polluted Hoarder'
+sS'Prince Malchezaar'
+p680
+I01
+sS'Menagerie Magician'
 p681
 I00
-sS'Second-Rate Bruiser'
+sS'Thrallmar Farseer'
 p682
 I00
-sS'Soggoth the Slitherer'
+sS'Harrison Jones'
 p683
 I01
-sS'Tomb Spider'
+sS'Silithid Swarmer'
 p684
 I00
-sS'Leatherclad Hogleader'
+sS'Sylvanas Windrunner'
 p685
-I00
-sS'Unstable Ghoul'
+I01
+sS'Weasel Tunneler'
 p686
 I00
-sS'Master Jouster'
+sS'Violet Illusionist'
 p687
 I00
-sS'Brann Bronzebeard'
+sS'Malygos'
 p688
 I01
-sS'The Beast'
+sS'Arcane Golem'
 p689
-I01
-sS'Nightblade'
-p690
 I00
-sS'Naga Corsair'
+sS'Shifter Zerus'
+p690
+I01
+sS"Disciple of C'Thun"
 p691
 I00
-sS'Evolved Kobold'
+sS'Madam Goya'
 p692
-I00
-sS'Mind Control Tech'
+I01
+sS"N'Zoth, the Corruptor"
 p693
-I00
-sS'Fen Creeper'
+I01
+sS'Fight Promoter'
 p694
 I00
-sS'Infested Tauren'
+sS'Tournament Attendee'
 p695
 I00
-sS'Alexstrasza'
+sS'Captain Greenskin'
 p696
 I01
-sS'Huge Toad'
+sS'Stranglethorn Tiger'
 p697
 I00
-sS'Mana Addict'
+sS'Lorewalker Cho'
 p698
-I00
-sS'Hungry Crab'
+I01
+sS'Murloc Raider'
 p699
 I00
-sS'Hungry Dragon'
+sS'Blubber Baron'
 p700
 I00
-sS'Deathwing'
+sS'Lord of the Arena'
 p701
-I01
-sS'Psych-o-Tron'
-p702
 I00
-sS'Wrathion'
-p703
+sS'Nat, the Darkfisher'
+p702
 I01
-sS'Scarlet Crusader'
+sS'Kvaldir Raider'
+p703
+I00
+sS'Coldlight Seer'
 p704
 I00
-sS'Leper Gnome'
+sS'North Sea Kraken'
 p705
 I00
-sS'Jeweled Scarab'
+sS'Deathwing, Dragonlord'
 p706
-I00
-sS'Eydis Darkbane'
-p707
 I01
-sS'Ravenholdt Assassin'
+sS'Lost Tallstrider'
+p707
+I00
+sS'Grotesque Dragonhawk'
 p708
 I00
-sS'Drakonid Crusher'
+sS'Zombie Chow'
 p709
 I00
-sS'Frostwolf Warlord'
+sS'Coldlight Oracle'
 p710
 I00
-sS'Secretkeeper'
+sS'Dragonkin Sorcerer'
 p711
 I00
-sS'Big-Time Racketeer'
+sS'Mana Wraith'
 p712
 I00
-sS"Yogg-Saron, Hope's End"
+sS'Micro Machine'
 p713
-I01
-sS'Faceless Behemoth'
+I00
+sS'Garrison Commander'
 p714
 I00
-sS'Old Murk-Eye'
+sS'Silver Hand Regent'
 p715
-I01
-sS'Mountain Giant'
+I00
+sS'Corrupted Healbot'
 p716
 I00
-sS'Raging Worgen'
+sS'Dire Wolf Alpha'
 p717
 I00
-sS'Spellbreaker'
+sS"Don Han'Cho"
 p718
-I00
-sS'Frost Giant'
+I01
+sS'Dragonhawk Rider'
 p719
 I00
-sS'Young Priestess'
+sS'Youthful Brewmaster'
 p720
 I00
-sS'Wind-up Burglebot'
+sS'Bluegill Warrior'
 p721
 I00
-sS'Validated Doomsayer'
+sS'Ancient Brewmaster'
 p722
 I00
-sS'Feugen'
+sS'Fencing Coach'
 p723
-I01
-sS'Questing Adventurer'
+I00
+sS'Grand Crusader'
 p724
 I00
-sS'Emperor Thaurissan'
+sS'Force-Tank MAX'
 p725
-I01
-sS'Mechanical Yeti'
+I00
+sS'Argent Squire'
 p726
 I00
-sS'Flying Machine'
+sS'Mekgineer Thermaplugg'
 p727
-I00
-sS'Murloc Warleader'
+I01
+sS'Recombobulator'
 p728
 I00
-sS'Wild Pyromancer'
+sS'Nerubian Egg'
 p729
 I00
-sS'Frigid Snobold'
+sS'Jade Spirit'
 p730
 I00
-sS'Nerubian Prophet'
+sS'Knife Juggler'
 p731
 I00
-sS'Clockwork Giant'
+sS'Loatheb'
 p732
-I00
-sS'Bog Creeper'
+I01
+sS'Wobbling Runts'
 p733
 I00
-sS'Twilight Drake'
+sS"Mukla's Champion"
 p734
 I00
-sS'Injured Kvaldir'
+sS'Ysera'
 p735
-I00
-sS'Twilight Geomancer'
+I01
+sS'Armored Warhorse'
 p736
 I00
-sS'Target Dummy'
+sS'Piloted Shredder'
 p737
 I00
-sS'Fjola Lightbane'
+sS'Djinni of Zephyrs'
 p738
-I01
-sS"Sen'jin Shieldmasta"
+I00
+sS'Twilight Summoner'
 p739
 I00
-sS'Medivh, the Guardian'
+sS'Gruul'
 p740
 I01
-sS'Millhouse Manastorm'
+sS'Oasis Snapjaw'
 p741
-I01
-sS'Kobold Geomancer'
-p742
 I00
-sS'Sunfury Protector'
+sS'The Boogeymonster'
+p742
+I01
+sS'Streetwise Investigator'
 p743
 I00
-sS"Mimiron's Head"
+sS'Abusive Sergeant'
 p744
-I01
-sS'Ogre Magi'
+I00
+sS'Frost Elemental'
 p745
 I00
-sS'Wailing Soul'
+sS'Red Mana Wyrm'
 p746
 I00
-sS"Am'gam Rager"
+sS'Dr. Boom'
 p747
-I00
-sS'Chromaggus'
-p748
 I01
-sS'Molten Giant'
+sS'Eldritch Horror'
+p748
+I00
+sS'Enhance-o Mechano'
 p749
 I00
-sS'Fossilized Devilsaur'
+sS'Ancient Shade'
 p750
 I00
-sS"Kel'Thuzad"
+sS'Silverback Patriarch'
 p751
-I01
-sS'Tinkertown Technician'
-p752
 I00
-sS'Gadgetzan Jouster'
+sS'Genzo, the Shark'
+p752
+I01
+sS'Squirming Tentacle'
 p753
 I00
-sS'Boneguard Lieutenant'
+sS'Polluted Hoarder'
 p754
 I00
-sS'Reckless Rocketeer'
+sS'Second-Rate Bruiser'
 p755
 I00
-sS'Justicar Trueheart'
+sS'Soggoth the Slitherer'
 p756
 I01
-sS'Junkbot'
+sS'Tomb Spider'
 p757
 I00
-sS'Elite Tauren Chieftain'
+sS'Leatherclad Hogleader'
 p758
-I01
-sS'Loot Hoarder'
+I00
+sS'Unstable Ghoul'
 p759
 I00
-sS"Tentacle of N'Zoth"
+sS'Master Jouster'
 p760
 I00
-sS"Mogu'shan Warden"
+sS'Brann Bronzebeard'
 p761
-I00
-sS'Arcane Nullifier X-21'
+I01
+sS'The Beast'
 p762
-I00
-sS'Ancient Harbinger'
+I01
+sS'Nightblade'
 p763
 I00
-sS'River Crocolisk'
+sS'Naga Corsair'
 p764
 I00
-sS'Injured Blademaster'
+sS'Evolved Kobold'
 p765
 I00
-sS'Hemet Nesingwary'
+sS'Mind Control Tech'
 p766
-I01
-sS'Dancing Swords'
+I00
+sS'Fen Creeper'
 p767
 I00
-sS'Core Hound'
+sS'Infested Tauren'
 p768
 I00
-sS'Spiteful Smith'
+sS'Alexstrasza'
 p769
-I00
-sS'Gurubashi Berserker'
+I01
+sS'Huge Toad'
 p770
 I00
-sS'Blackwing Technician'
+sS'Mana Addict'
 p771
 I00
-sS'Mechwarper'
+sS'Hungry Crab'
 p772
 I00
-sS'Explosive Sheep'
+sS'Hungry Dragon'
 p773
 I00
-sS'Southsea Captain'
+sS'Deathwing'
 p774
-I00
-sS'Ancient of Blossoms'
+I01
+sS'Psych-o-Tron'
 p775
 I00
-sS'Elise Starseeker'
+sS'Wrathion'
 p776
 I01
-sS'Cyclopian Horror'
+sS'Scarlet Crusader'
 p777
 I00
-sS'Avian Watcher'
+sS'Leper Gnome'
 p778
 I00
-sS'Razorfen Hunter'
+sS'Jeweled Scarab'
 p779
 I00
-sS'Southsea Deckhand'
+sS'Eydis Darkbane'
 p780
-I00
-sS'Spiked Hogrider'
+I01
+sS'Ravenholdt Assassin'
 p781
 I00
-sS'Flesheating Ghoul'
+sS'Drakonid Crusher'
 p782
 I00
-sS'Young Dragonhawk'
+sS'Frostwolf Warlord'
 p783
 I00
-sS'Crazed Alchemist'
+sS'Secretkeeper'
 p784
 I00
-sS'Stormwind Champion'
+sS'Big-Time Racketeer'
 p785
 I00
-sS'Runic Egg'
+sS"Yogg-Saron, Hope's End"
 p786
-I00
-sS'Blowgill Sniper'
+I01
+sS'Faceless Behemoth'
 p787
 I00
-sS'Lowly Squire'
+sS'Old Murk-Eye'
 p788
-I00
-sS'Pompous Thespian'
+I01
+sS'Mountain Giant'
 p789
 I00
-sS'The Black Knight'
+sS'Raging Worgen'
 p790
-I01
-sS"Spawn of N'Zoth"
+I00
+sS'Spellbreaker'
 p791
 I00
-sS'Dragon Egg'
+sS'Frost Giant'
 p792
 I00
-sS'Pint-Sized Summoner'
+sS'Young Priestess'
 p793
 I00
-sS'Kabal Chemist'
+sS'Wind-up Burglebot'
 p794
 I00
-sS'Grimscale Oracle'
+sS'Validated Doomsayer'
 p795
 I00
-sS"C'Thun's Chosen"
+sS'Feugen'
 p796
-I00
-sS'Worgen Greaser'
+I01
+sS'Questing Adventurer'
 p797
 I00
-sS'Burgly Bully'
+sS'Emperor Thaurissan'
 p798
-I00
-ssS'Rogue'
+I01
+sS'Mechanical Yeti'
 p799
-(dp800
-S'Undercity Huckster'
+I00
+sS'Flying Machine'
+p800
+I00
+sS'Murloc Warleader'
 p801
 I00
-sS'Cutpurse'
+sS'Wild Pyromancer'
 p802
 I00
-sS'Southsea Squidface'
+sS'Frigid Snobold'
 p803
 I00
-sS'Unearthed Raptor'
+sS'Nerubian Prophet'
 p804
 I00
-sS'Kidnapper'
+sS'Clockwork Giant'
 p805
 I00
-sS'Shadow Sensei'
+sS'Bog Creeper'
 p806
 I00
-sS'Tomb Pillager'
+sS'Twilight Drake'
 p807
 I00
-sS'Swashburglar'
+sS'Injured Kvaldir'
 p808
 I00
-sS"Tinker's Sharpsword Oil"
+sS'Twilight Geomancer'
 p809
 I00
-sS'Shadow Strike'
+sS'Target Dummy'
 p810
 I00
-sS'Shadow Rager'
+sS'Fjola Lightbane'
 p811
-I00
-sS'Defias Ringleader'
+I01
+sS"Sen'jin Shieldmasta"
 p812
 I00
-sS'Jade Swarmer'
+sS'Medivh, the Guardian'
 p813
-I00
-sS'Sinister Strike'
+I01
+sS'Millhouse Manastorm'
 p814
-I00
-sS'Eviscerate'
+I01
+sS'Kobold Geomancer'
 p815
 I00
-sS'Shady Dealer'
+sS'Sunfury Protector'
 p816
 I00
-sS'Sabotage'
+sS"Mimiron's Head"
 p817
-I00
-sS'Assassinate'
+I01
+sS'Ogre Magi'
 p818
 I00
-sS'Undercity Valiant'
+sS'Wailing Soul'
 p819
 I00
-sS'Ethereal Peddler'
+sS"Am'gam Rager"
 p820
 I00
-sS'Lotus Assassin'
+sS'Chromaggus'
 p821
-I00
-sS'Deadly Poison'
+I01
+sS'Molten Giant'
 p822
 I00
-sS'Ogre Ninja'
+sS'Fossilized Devilsaur'
 p823
 I00
-sS'Betrayal'
+sS"Kel'Thuzad"
 p824
-I00
-sS'Headcrack'
+I01
+sS'Tinkertown Technician'
 p825
 I00
-sS'Gadgetzan Ferryman'
+sS'Gadgetzan Jouster'
 p826
 I00
-sS'Cold Blood'
+sS'Boneguard Lieutenant'
 p827
 I00
-sS'SI:7 Agent'
+sS'Reckless Rocketeer'
 p828
 I00
-sS'One-eyed Cheat'
+sS'Justicar Trueheart'
 p829
-I00
-sS'Vanish'
+I01
+sS'Junkbot'
 p830
 I00
-sS'Burgle'
+sS'Elite Tauren Chieftain'
 p831
-I00
-sS'Luckydo Buccaneer'
+I01
+sS'Loot Hoarder'
 p832
 I00
-sS"Anub'ar Ambusher"
+sS"Tentacle of N'Zoth"
 p833
 I00
-sS'Shaku, the Collector'
+sS"Mogu'shan Warden"
 p834
-I01
-sS'Trade Prince Gallywix'
+I00
+sS'Arcane Nullifier X-21'
 p835
-I01
-sS'Goblin Auto-Barber'
+I00
+sS'Ancient Harbinger'
 p836
 I00
-sS'Backstab'
+sS'River Crocolisk'
 p837
 I00
-sS"Cogmaster's Wrench"
+sS'Injured Blademaster'
 p838
 I00
-sS'Fan of Knives'
+sS'Hemet Nesingwary'
 p839
-I00
-sS'Conceal'
+I01
+sS'Dancing Swords'
 p840
 I00
-sS'Dark Iron Skulker'
+sS'Core Hound'
 p841
 I00
-sS'Iron Sensei'
+sS'Spiteful Smith'
 p842
 I00
-sS'Xaril, Poisoned Mind'
+sS'Gurubashi Berserker'
 p843
-I01
-sS'Preparation'
+I00
+sS'Blackwing Technician'
 p844
 I00
-sS'Gang Up'
+sS'Mechwarper'
 p845
 I00
-sS'Pit Snake'
+sS'Explosive Sheep'
 p846
 I00
-sS"Anub'arak"
+sS'Southsea Captain'
 p847
-I01
-sS'Bladed Cultist'
+I00
+sS'Ancient of Blossoms'
 p848
 I00
-sS'Shadowcaster'
+sS'Elise Starseeker'
 p849
-I00
-sS'Counterfeit Coin'
+I01
+sS'Cyclopian Horror'
 p850
 I00
-sS'Shado-Pan Rider'
+sS'Avian Watcher'
 p851
 I00
-sS'Jade Shuriken'
+sS'Razorfen Hunter'
 p852
 I00
-sS'Master of Disguise'
+sS'Southsea Deckhand'
 p853
 I00
-sS'Edwin VanCleef'
+sS'Spiked Hogrider'
 p854
-I01
-sS'Deadly Fork'
+I00
+sS'Flesheating Ghoul'
 p855
 I00
-sS'Sap'
+sS'Young Dragonhawk'
 p856
 I00
-sS"Assassin's Blade"
+sS'Crazed Alchemist'
 p857
 I00
-sS'Shadowstep'
+sS'Stormwind Champion'
 p858
 I00
-sS"Perdition's Blade"
+sS'Runic Egg'
 p859
 I00
-sS'Thistle Tea'
+sS'Blowgill Sniper'
 p860
 I00
-sS'Patient Assassin'
+sS'Lowly Squire'
 p861
 I00
-sS'Poisoned Blade'
+sS'Pompous Thespian'
 p862
 I00
-sS'Blade Flurry'
+sS'The Black Knight'
 p863
-I00
-sS'Journey Below'
+I01
+sS"Spawn of N'Zoth"
 p864
 I00
-sS'Beneath the Grounds'
+sS'Dragon Egg'
 p865
 I00
-sS'Buccaneer'
+sS'Pint-Sized Summoner'
 p866
 I00
-sS'Sprint'
+sS'Kabal Chemist'
 p867
 I00
-sS'Valeera Sanguinar'
+sS'Grimscale Oracle'
 p868
 I00
-sS'Shiv'
+sS"C'Thun's Chosen"
 p869
 I00
-sS"Blade of C'Thun"
+sS'Worgen Greaser'
 p870
 I00
-ssS'Shaman'
+sS'Burgly Bully'
 p871
-(dp872
-S'Primal Fusion'
-p873
 I00
-sS'Ancestral Spirit'
+ssS'Rogue'
+p872
+(dp873
+S'Undercity Huckster'
 p874
 I00
-sS'Jade Chieftain'
+sS'Cutpurse'
 p875
 I00
-sS'Thing from Below'
+sS'Southsea Squidface'
 p876
 I00
-sS'Jade Claws'
+sS'Unearthed Raptor'
 p877
 I00
-sS'Thrall'
+sS'Kidnapper'
 p878
 I00
-sS'Wicked Witchdoctor'
+sS'Shadow Sensei'
 p879
 I00
-sS'Bloodlust'
+sS'Tomb Pillager'
 p880
 I00
-sS'Jinyu Waterspeaker'
+sS'Swashburglar'
 p881
 I00
-sS'Unbound Elemental'
+sS"Tinker's Sharpsword Oil"
 p882
 I00
-sS'Dunemaul Shaman'
+sS'Shadow Strike'
 p883
 I00
-sS'Tunnel Trogg'
+sS'Shadow Rager'
 p884
 I00
-sS'Lightning Storm'
+sS'Defias Ringleader'
 p885
 I00
-sS'Vitality Totem'
+sS'Jade Swarmer'
 p886
 I00
-sS'Call in the Finishers'
+sS'Sinister Strike'
 p887
 I00
-sS'Flamewreathed Faceless'
+sS'Eviscerate'
 p888
 I00
-sS'Everyfin is Awesome'
+sS'Shady Dealer'
 p889
 I00
-sS'Evolve'
+sS'Sabotage'
 p890
 I00
-sS'Fireguard Destroyer'
+sS'Assassinate'
 p891
 I00
-sS'Elemental Destruction'
+sS'Undercity Valiant'
 p892
 I00
-sS'Spirit Claws'
+sS'Ethereal Peddler'
 p893
 I00
-sS'Dust Devil'
+sS'Lotus Assassin'
 p894
 I00
-sS'Charged Hammer'
+sS'Deadly Poison'
 p895
 I00
-sS'Lava Burst'
+sS'Ogre Ninja'
 p896
 I00
-sS'Morgl the Oracle'
+sS'Betrayal'
 p897
 I00
-sS'Fire Elemental'
+sS'Headcrack'
 p898
 I00
-sS'Frost Shock'
+sS'Gadgetzan Ferryman'
 p899
 I00
-sS'Finders Keepers'
+sS'Cold Blood'
 p900
 I00
-sS'Hammer of Twilight'
+sS'SI:7 Agent'
 p901
 I00
-sS'Draenei Totemcarver'
+sS'One-eyed Cheat'
 p902
 I00
-sS'White Eyes'
+sS'Vanish'
 p903
-I01
-sS'Lava Shock'
+I00
+sS'Burgle'
 p904
 I00
-sS'Stormforged Axe'
+sS'Luckydo Buccaneer'
 p905
 I00
-sS'Lightning Bolt'
+sS"Anub'ar Ambusher"
 p906
 I00
-sS'Hallazeal the Ascended'
+sS'Shaku, the Collector'
 p907
 I01
-sS'Lotus Illusionist'
+sS'Trade Prince Gallywix'
 p908
-I00
-sS'Tuskarr Totemic'
+I01
+sS'Goblin Auto-Barber'
 p909
 I00
-sS'Earth Shock'
+sS'Backstab'
 p910
 I00
-sS'Mana Tide Totem'
+sS"Cogmaster's Wrench"
 p911
 I00
-sS'Powermace'
+sS'Fan of Knives'
 p912
 I00
-sS'Healing Wave'
+sS'Conceal'
 p913
 I00
-sS'Windfury'
+sS'Dark Iron Skulker'
 p914
 I00
-sS'Totemic Might'
+sS'Iron Sensei'
 p915
 I00
-sS'Maelstrom Portal'
+sS'Xaril, Poisoned Mind'
 p916
-I00
-sS'Reincarnate'
+I01
+sS'Preparation'
 p917
 I00
-sS'Hex'
+sS'Gang Up'
 p918
 I00
-sS'Feral Spirit'
+sS'Pit Snake'
 p919
 I00
-sS"Ancestor's Call"
+sS"Anub'arak"
 p920
-I00
-sS'Far Sight'
+I01
+sS'Bladed Cultist'
 p921
 I00
-sS'Flametongue Totem'
+sS'Shadowcaster'
 p922
 I00
-sS'Devolve'
+sS'Counterfeit Coin'
 p923
 I00
-sS'Eternal Sentinel'
+sS'Shado-Pan Rider'
 p924
 I00
-sS'Windspeaker'
+sS'Jade Shuriken'
 p925
 I00
-sS'The Mistcaller'
+sS'Master of Disguise'
 p926
-I01
-sS'Jade Lightning'
-p927
 I00
-sS'Forked Lightning'
+sS'Edwin VanCleef'
+p927
+I01
+sS'Deadly Fork'
 p928
 I00
-sS'Rumbling Elemental'
+sS'Sap'
 p929
 I00
-sS'Crackle'
+sS"Assassin's Blade"
 p930
 I00
-sS'Master of Evolution'
+sS'Shadowstep'
 p931
 I00
-sS'Doomhammer'
+sS"Perdition's Blade"
 p932
 I00
-sS"Al'Akir the Windlord"
+sS'Thistle Tea'
 p933
-I01
-sS'Whirling Zap-o-matic'
+I00
+sS'Patient Assassin'
 p934
 I00
-sS'Ancestral Knowledge'
+sS'Poisoned Blade'
 p935
 I00
-sS'Neptulon'
+sS'Blade Flurry'
 p936
-I01
-sS'Stormcrack'
+I00
+sS'Journey Below'
 p937
 I00
-sS'Ancestral Healing'
+sS'Beneath the Grounds'
 p938
 I00
-sS'Rockbiter Weapon'
+sS'Buccaneer'
 p939
 I00
-sS'Totem Golem'
+sS'Sprint'
 p940
 I00
-sS'Siltfin Spiritwalker'
+sS'Valeera Sanguinar'
 p941
 I00
-sS'Earth Elemental'
+sS'Shiv'
 p942
 I00
-sS'Thunder Bluff Valiant'
+sS"Blade of C'Thun"
 p943
 I00
-ssS'Mage'
+ssS'Shaman'
 p944
 (dp945
-S'Demented Frostcaller'
+S'Primal Fusion'
 p946
 I00
-sS'Vaporize'
+sS'Ancestral Spirit'
 p947
 I00
-sS'Manic Soulcaster'
+sS'Jade Chieftain'
 p948
 I00
-sS'Ice Block'
+sS'Thing from Below'
 p949
 I00
-sS'Greater Arcane Missiles'
+sS'Jade Claws'
 p950
 I00
-sS'Water Elemental'
+sS'Thrall'
 p951
 I00
-sS'Potion of Polymorph'
+sS'Wicked Witchdoctor'
 p952
 I00
-sS'Duplicate'
+sS'Bloodlust'
 p953
 I00
-sS'Pyroblast'
+sS'Jinyu Waterspeaker'
 p954
 I00
-sS'Archmage Antonidas'
+sS'Unbound Elemental'
 p955
-I01
-sS'Blizzard'
+I00
+sS'Dunemaul Shaman'
 p956
 I00
-sS'Flamewaker'
+sS'Tunnel Trogg'
 p957
 I00
-sS'Firelands Portal'
+sS'Lightning Storm'
 p958
 I00
-sS'Faceless Summoner'
+sS'Vitality Totem'
 p959
 I00
-sS'Snowchugger'
+sS'Call in the Finishers'
 p960
 I00
-sS'Arcane Missiles'
+sS'Flamewreathed Faceless'
 p961
 I00
-sS"Medivh's Valet"
+sS'Everyfin is Awesome'
 p962
 I00
-sS'Rhonin'
+sS'Evolve'
 p963
-I01
-sS'Soot Spewer'
+I00
+sS'Fireguard Destroyer'
 p964
 I00
-sS'Mana Wyrm'
+sS'Elemental Destruction'
 p965
 I00
-sS'Flamestrike'
+sS'Spirit Claws'
 p966
 I00
-sS'Flamecannon'
+sS'Dust Devil'
 p967
 I00
-sS'Khadgar'
+sS'Charged Hammer'
 p968
 I00
-sS'Shatter'
+sS'Lava Burst'
 p969
 I00
-sS"Cabalist's Tome"
+sS'Morgl the Oracle'
 p970
 I00
-sS'Cone of Cold'
+sS'Fire Elemental'
 p971
 I00
-sS'Flame Leviathan'
+sS'Frost Shock'
 p972
-I01
-sS'Ethereal Arcanist'
+I00
+sS'Finders Keepers'
 p973
 I00
-sS"Sorcerer's Apprentice"
+sS'Hammer of Twilight'
 p974
 I00
-sS'Fallen Hero'
+sS'Draenei Totemcarver'
 p975
 I00
-sS'Jaina Proudmoore'
+sS'White Eyes'
 p976
-I00
-sS'Ice Barrier'
+I01
+sS'Lava Shock'
 p977
 I00
-sS'Forbidden Flame'
+sS'Stormforged Axe'
 p978
 I00
-sS'Cult Sorcerer'
+sS'Lightning Bolt'
 p979
 I00
-sS'Echo of Medivh'
+sS'Hallazeal the Ascended'
 p980
-I00
-sS'Animated Armor'
+I01
+sS'Lotus Illusionist'
 p981
 I00
-sS'Cryomancer'
+sS'Tuskarr Totemic'
 p982
 I00
-sS'Goblin Blastmage'
+sS'Earth Shock'
 p983
 I00
-sS'Frostbolt'
+sS'Mana Tide Totem'
 p984
 I00
-sS'Kirin Tor Mage'
+sS'Powermace'
 p985
 I00
-sS'Polymorph: Boar'
+sS'Healing Wave'
 p986
 I00
-sS'Frost Nova'
+sS'Windfury'
 p987
 I00
-sS'Forgotten Torch'
+sS'Totemic Might'
 p988
 I00
-sS'Ethereal Conjurer'
+sS'Maelstrom Portal'
 p989
 I00
-sS'Freezing Potion'
+sS'Reincarnate'
 p990
 I00
-sS'Coldarra Drake'
+sS'Hex'
 p991
 I00
-sS'Wee Spellstopper'
+sS'Feral Spirit'
 p992
 I00
-sS'Mirror Entity'
+sS"Ancestor's Call"
 p993
 I00
-sS'Ice Lance'
+sS'Far Sight'
 p994
 I00
-sS'Twilight Flamecaller'
+sS'Flametongue Totem'
 p995
 I00
-sS'Dalaran Aspirant'
+sS'Devolve'
 p996
 I00
-sS'Fireball'
+sS'Eternal Sentinel'
 p997
 I00
-sS'Servant of Yogg-Saron'
+sS'Windspeaker'
 p998
 I00
-sS'Spellbender'
+sS'The Mistcaller'
 p999
-I00
-sS'Spellslinger'
+I01
+sS'Jade Lightning'
 p1000
 I00
-sS'Counterspell'
+sS'Forked Lightning'
 p1001
 I00
-sS'Mirror Image'
+sS'Rumbling Elemental'
 p1002
 I00
-sS'Inkmaster Solia'
+sS'Crackle'
 p1003
-I01
-sS'Effigy'
+I00
+sS'Master of Evolution'
 p1004
 I00
-sS'Volcanic Potion'
+sS'Doomhammer'
 p1005
 I00
-sS'Arcane Blast'
+sS"Al'Akir the Windlord"
 p1006
-I00
-sS'Polymorph'
+I01
+sS'Whirling Zap-o-matic'
 p1007
 I00
-sS'Unstable Portal'
+sS'Ancestral Knowledge'
 p1008
 I00
-sS'Kabal Lackey'
+sS'Neptulon'
 p1009
-I00
-sS'Flame Lance'
+I01
+sS'Stormcrack'
 p1010
 I00
-sS'Arcane Intellect'
+sS'Ancestral Healing'
 p1011
 I00
-sS'Arcane Explosion'
+sS'Rockbiter Weapon'
 p1012
 I00
-sS'Kabal Crystal Runner'
+sS'Totem Golem'
 p1013
 I00
-sS'Babbling Book'
+sS'Siltfin Spiritwalker'
 p1014
 I00
-sS"Dragon's Breath"
+sS'Earth Elemental'
 p1015
 I00
-sS'Anomalus'
+sS'Thunder Bluff Valiant'
 p1016
+I00
+ssS'Mage'
+p1017
+(dp1018
+S'Demented Frostcaller'
+p1019
+I00
+sS'Vaporize'
+p1020
+I00
+sS'Manic Soulcaster'
+p1021
+I00
+sS'Ice Block'
+p1022
+I00
+sS'Greater Arcane Missiles'
+p1023
+I00
+sS'Water Elemental'
+p1024
+I00
+sS'Potion of Polymorph'
+p1025
+I00
+sS'Duplicate'
+p1026
+I00
+sS'Pyroblast'
+p1027
+I00
+sS'Archmage Antonidas'
+p1028
+I01
+sS'Blizzard'
+p1029
+I00
+sS'Flamewaker'
+p1030
+I00
+sS'Firelands Portal'
+p1031
+I00
+sS'Faceless Summoner'
+p1032
+I00
+sS'Snowchugger'
+p1033
+I00
+sS'Arcane Missiles'
+p1034
+I00
+sS"Medivh's Valet"
+p1035
+I00
+sS'Rhonin'
+p1036
+I01
+sS'Soot Spewer'
+p1037
+I00
+sS'Mana Wyrm'
+p1038
+I00
+sS'Flamestrike'
+p1039
+I00
+sS'Flamecannon'
+p1040
+I00
+sS'Khadgar'
+p1041
+I00
+sS'Shatter'
+p1042
+I00
+sS"Cabalist's Tome"
+p1043
+I00
+sS'Cone of Cold'
+p1044
+I00
+sS'Flame Leviathan'
+p1045
+I01
+sS'Ethereal Arcanist'
+p1046
+I00
+sS"Sorcerer's Apprentice"
+p1047
+I00
+sS'Fallen Hero'
+p1048
+I00
+sS'Jaina Proudmoore'
+p1049
+I00
+sS'Ice Barrier'
+p1050
+I00
+sS'Forbidden Flame'
+p1051
+I00
+sS'Cult Sorcerer'
+p1052
+I00
+sS'Echo of Medivh'
+p1053
+I00
+sS'Animated Armor'
+p1054
+I00
+sS'Cryomancer'
+p1055
+I00
+sS'Goblin Blastmage'
+p1056
+I00
+sS'Frostbolt'
+p1057
+I00
+sS'Kirin Tor Mage'
+p1058
+I00
+sS'Polymorph: Boar'
+p1059
+I00
+sS'Frost Nova'
+p1060
+I00
+sS'Forgotten Torch'
+p1061
+I00
+sS'Ethereal Conjurer'
+p1062
+I00
+sS'Freezing Potion'
+p1063
+I00
+sS'Coldarra Drake'
+p1064
+I00
+sS'Wee Spellstopper'
+p1065
+I00
+sS'Mirror Entity'
+p1066
+I00
+sS'Ice Lance'
+p1067
+I00
+sS'Twilight Flamecaller'
+p1068
+I00
+sS'Dalaran Aspirant'
+p1069
+I00
+sS'Fireball'
+p1070
+I00
+sS'Servant of Yogg-Saron'
+p1071
+I00
+sS'Spellbender'
+p1072
+I00
+sS'Spellslinger'
+p1073
+I00
+sS'Counterspell'
+p1074
+I00
+sS'Mirror Image'
+p1075
+I00
+sS'Inkmaster Solia'
+p1076
+I01
+sS'Effigy'
+p1077
+I00
+sS'Volcanic Potion'
+p1078
+I00
+sS'Arcane Blast'
+p1079
+I00
+sS'Polymorph'
+p1080
+I00
+sS'Unstable Portal'
+p1081
+I00
+sS'Kabal Lackey'
+p1082
+I00
+sS'Flame Lance'
+p1083
+I00
+sS'Arcane Intellect'
+p1084
+I00
+sS'Arcane Explosion'
+p1085
+I00
+sS'Kabal Crystal Runner'
+p1086
+I00
+sS'Babbling Book'
+p1087
+I00
+sS"Dragon's Breath"
+p1088
+I00
+sS'Anomalus'
+p1089
 I01
 sS'Medivh'
-p1017
+p1090
 I00
 ss.

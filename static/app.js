@@ -22,7 +22,8 @@ app.controller('AppCtrl', function ($scope, $http) {
         'Druid': [],
         'Warlock': [],
         'Mage': [],
-        'Priest': []
+        'Priest': [],
+        'Paladin': []
     };
 
     $scope.neutralCards = [];
